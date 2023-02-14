@@ -50,6 +50,7 @@ def convert_player_props_to_df(
         'player_name': [],
         'matchup_home_team': [],
         'matchup_away_team': [],
+        'sports_book': [],  
         'name': [],
         'price': [],
         'points': []
@@ -75,6 +76,7 @@ def convert_player_props_to_df(
                 df_dict['player_name'].append(prop['description'])
                 df_dict['matchup_home_team'].append(data['home_team'])
                 df_dict['matchup_away_team'].append(data['away_team'])
+                df_dict['sports_book'].append(book['key'])
                 df_dict['name'].append(prop['name'])
                 df_dict['price'].append(prop['price'])
                 df_dict['points'].append(prop['point'])
