@@ -85,7 +85,7 @@ def convert_player_props_to_df(
                     df_dict['sports_book'].append(book['key'])
                     df_dict['name'].append(prop['name'])
                     df_dict['price'].append(prop['price'])
-                    df_dict['points'].append(prop.get('points'))
+                    df_dict['points'].append(prop.get('point'))
     
     df = pd.DataFrame(df_dict)
 
