@@ -70,9 +70,6 @@ def convert_player_props_to_df(
                 )
             )
 
-            if res.ok:
-                print(res.url)
-
             data = res.json()
 
             for book in data['bookmakers']:
