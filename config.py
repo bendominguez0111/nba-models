@@ -49,3 +49,6 @@ class OddsAPISettings:
 # file stuff
 base_dir = os.path.dirname(os.path.abspath(__file__))
 export_folder = os.path.join(base_dir, 'exports')
+
+# betting model settings
+KELLY_CRITERION_SETTING = 0.5

@@ -1,4 +1,4 @@
-# NBA betting challenge
+# NBA / Python betting challenge
 This is the source code for an algorithm to allocate $1,000 towards NBA sports betting props. Regular updates on my twitter account <a target="_blank" href="https://www.twitter.com/bendominguez011">@bendominguez011</a>
 
 ## Project Requirements:
