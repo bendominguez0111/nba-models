@@ -28,7 +28,7 @@ def get_all_events(
 def convert_player_props_to_df(
         sport_key:OddsAPISettings.sports=OddsAPISettings.sports.nba,
         region:OddsAPISettings.regions=OddsAPISettings.regions.us,
-        markets:OddsAPISettings.markets=OddsAPISettings.markets.player_points,
+        markets:OddsAPISettings.markets=OddsAPISettings.markets.all_player_props,
         date_format:str='iso',
         odds_format:str='american',
         save:bool=False
@@ -47,6 +47,7 @@ def convert_player_props_to_df(
     events = get_all_events(sport_key=sport_key)
     df_dict = {
         'id': [],
+        'prop_type': [],
         'player_name': [],
         'matchup_home_team': [],
         'matchup_away_team': [],
@@ -56,30 +57,35 @@ def convert_player_props_to_df(
         'points': []
     }
     for event in events:
-        res = requests.get(
-            EVENT_ODDS_ENDPOINT.format(
-                sport=sport_key, 
-                event_id=event, 
-                regions=region,
-                markets=markets,
-                date_format=date_format, 
-                odds_format=odds_format, 
-                api_key=ODDS_API_KEY
+        for market in markets:
+            res = requests.get(
+                EVENT_ODDS_ENDPOINT.format(
+                    sport=sport_key, 
+                    event_id=event, 
+                    regions=region,
+                    markets=market,
+                    date_format=date_format, 
+                    odds_format=odds_format, 
+                    api_key=ODDS_API_KEY
+                )
             )
-        )
 
-        data = res.json()
+            if res.ok:
+                print(res.url)
 
-        for book in data['bookmakers']:
-            for prop in book['markets'][0]['outcomes']:
-                df_dict['id'].append(event)
-                df_dict['player_name'].append(prop['description'])
-                df_dict['matchup_home_team'].append(data['home_team'])
-                df_dict['matchup_away_team'].append(data['away_team'])
-                df_dict['sports_book'].append(book['key'])
-                df_dict['name'].append(prop['name'])
-                df_dict['price'].append(prop['price'])
-                df_dict['points'].append(prop['point'])
+            data = res.json()
+
+            for book in data['bookmakers']:
+                for prop in book['markets'][0]['outcomes']:
+                    df_dict['id'].append(event)
+                    df_dict['prop_type'].append(market)
+                    df_dict['player_name'].append(prop['description'])
+                    df_dict['matchup_home_team'].append(data['home_team'])
+                    df_dict['matchup_away_team'].append(data['away_team'])
+                    df_dict['sports_book'].append(book['key'])
+                    df_dict['name'].append(prop['name'])
+                    df_dict['price'].append(prop['price'])
+                    df_dict['points'].append(prop.get('points'))
     
     df = pd.DataFrame(df_dict)
 

@@ -32,6 +32,17 @@ class OddsAPIMarkets:
     player_double_double = 'player_double_double'
     player_turnovers = 'player_turnovers'
 
+    all_player_props = [
+        player_points, 
+        player_rebounds,
+        player_assists,
+        player_steals,
+        player_blocks,
+        player_threes,
+        player_double_double,
+        player_turnovers
+    ]
+
 class OddsAPIRegions:
     us = 'us'
     uk = 'uk'
