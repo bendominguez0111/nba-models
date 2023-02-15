@@ -1,11 +1,18 @@
-# The Odds API endpoints
-ODDS_API_BASE_URL = "https://api.the-odds-api.com"
-## event odds
-EVENT_ODDS_ENDPOINT = ODDS_API_BASE_URL + \
-    "/v4/sports/{sport}/events/{event_id}/odds?apiKey={api_key}&regions={regions}&markets={markets}&dateFormat={date_format}&oddsFormat={odds_format}"
+"""
 
-RETRIEVE_ODDS_ENDPOINT = ODDS_API_BASE_URL + \
-    "/v4/sports/{sport}/odds/?apiKey={api_key}&regions={regions}&markets={markets}"
+This module contains the endpoints & configuration for the Odds API
+
+"""
+
+class OddsAPIEndpoints:
+    # The Odds API endpoints
+    ODDS_API_BASE_URL = "https://api.the-odds-api.com"
+    ## event odds
+    EVENT_ODDS_ENDPOINT = ODDS_API_BASE_URL + \
+        "/v4/sports/{sport}/events/{event_id}/odds?apiKey={api_key}&regions={regions}&markets={markets}&dateFormat={date_format}&oddsFormat={odds_format}"
+
+    RETRIEVE_ODDS_ENDPOINT = ODDS_API_BASE_URL + \
+        "/v4/sports/{sport}/odds/?apiKey={api_key}&regions={regions}&markets={markets}"
 
 class OddsAPIMarkets:
     h2h = 'h2h'

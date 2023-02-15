@@ -16,8 +16,11 @@ formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(messag
 handler.setFormatter(formatter)
 root.addHandler(handler)
 
-#Authentication with Odds API
+#Authentication with APIs
+RAPID_API_KEY = os.getenv('RAPID_API_KEY')
 ODDS_API_KEY = os.getenv('ODDS_API_KEY')
+
+RAPID_API_HOST = "api-basketball.p.rapidapi.com"
 
 # file stuff
 base_dir = os.path.dirname(os.path.abspath(__file__))

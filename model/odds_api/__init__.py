@@ -4,8 +4,7 @@ import pandas as pd
 import requests
 
 from config import export_folder
-from model.odds_api.config import (EVENT_ODDS_ENDPOINT, RETRIEVE_ODDS_ENDPOINT,
-                                   OddsAPISettings)
+from model.odds_api.config import OddsAPISettings, OddsAPIEndpoints
 
 class OddsAPI:
     """
@@ -30,7 +29,7 @@ class OddsAPI:
             :return: A list of event ids
         """
         
-        res = requests.get(RETRIEVE_ODDS_ENDPOINT.format(sport=sport_key, api_key=self.api_key, regions=region, markets=mkt))
+        res = requests.get(OddsAPIEndpoints.RETRIEVE_ODDS_ENDPOINT.format(sport=sport_key, api_key=self.api_key, regions=region, markets=mkt))
         data = res.json()
         print(data)
         return [event['id'] for event in data]
@@ -73,7 +72,7 @@ class OddsAPI:
         for event in events:
             for market in markets:
                 res = requests.get(
-                    EVENT_ODDS_ENDPOINT.format(
+                    OddsAPIEndpoints.EVENT_ODDS_ENDPOINT.format(
                         sport=sport_key, 
                         event_id=event, 
                         regions=region,
@@ -121,7 +120,10 @@ class OddsAPI:
         :return: A pandas DataFrame
         """
 
-        res = requests.get(RETRIEVE_ODDS_ENDPOINT.format(sport=sport_key, api_key=self.api_key, regions=region, markets=mkt))
+        res = requests.get(OddsAPIEndpoints.RETRIEVE_ODDS_ENDPOINT\
+            .format(sport=sport_key, api_key=self.api_key, regions=region, markets=mkt
+        ))
+        
         data = res.json()
 
         df_dict = {
