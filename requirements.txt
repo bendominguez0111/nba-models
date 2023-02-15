@@ -15,11 +15,14 @@ chardet==4.0.0
 charset-normalizer==3.0.1
 colorama==0.4.6
 comm==0.1.2
+contourpy==1.0.7
+cycler==0.11.0
 debugpy==1.6.6
 decorator==5.1.1
 defusedxml==0.7.1
 executing==1.2.0
 fastjsonschema==2.16.2
+fonttools==4.38.0
 fqdn==1.5.1
 idna==3.4
 ipykernel==6.21.2
@@ -40,10 +43,13 @@ jupyter_server==2.2.1
 jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
+kiwisolver==1.4.4
 MarkupSafe==2.1.2
+matplotlib==3.7.0
 matplotlib-inline==0.1.6
 mistune==2.0.5
 multidict==6.0.4
+nba-api==1.1.14
 nbclassic==0.5.1
 nbclient==0.7.2
 nbconvert==7.2.9
@@ -57,6 +63,7 @@ pandas==1.5.3
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
+Pillow==9.4.0
 platformdirs==3.0.0
 prometheus-client==0.16.0
 prompt-toolkit==3.0.36
@@ -64,6 +71,7 @@ psutil==5.9.4
 pure-eval==0.2.2
 pycparser==2.21
 Pygments==2.14.0
+pyparsing==3.0.9
 pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-dotenv==0.21.1
