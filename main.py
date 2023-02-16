@@ -1,3 +1,6 @@
-from model import run_model
+from model import Model
+from config import EXPORT_FOLDER, ODDS_API_KEY
 
-run_model()
+model = Model(export_folder=EXPORT_FOLDER, odds_api_key=ODDS_API_KEY)
+
+model.run_model()

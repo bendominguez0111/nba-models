@@ -1,10 +1,9 @@
-from datetime import date
-
 import pandas as pd
 import requests
 
-from config import export_folder
 from model.odds_api.config import OddsAPISettings, OddsAPIEndpoints
+
+from model.nba_api_helpers import find_player_id
 
 class OddsAPI:
     """
@@ -31,7 +30,7 @@ class OddsAPI:
         
         res = requests.get(OddsAPIEndpoints.RETRIEVE_ODDS_ENDPOINT.format(sport=sport_key, api_key=self.api_key, regions=region, markets=mkt))
         data = res.json()
-        print(data)
+      
         return [event['id'] for event in data]
 
     def convert_player_props_to_df(
@@ -40,8 +39,7 @@ class OddsAPI:
             region:OddsAPISettings.regions=OddsAPISettings.regions.us,
             markets:OddsAPISettings.markets=OddsAPISettings.markets.all_player_props,
             date_format:str='iso',
-            odds_format:str='american',
-            save:bool=False
+            odds_format:str='american'
         ) -> pd.DataFrame:
 
         """ This function converts the player props data from the API to a pandas DataFrame 
@@ -98,10 +96,7 @@ class OddsAPI:
                         df_dict['points'].append(prop.get('point'))
         
         df = pd.DataFrame(df_dict)
-
-        if save:
-            today = date.today().strftime('%Y_%m_%d')
-            df.to_csv(export_folder + f'/player_props/{today}.csv', index=False)
+        df['nba_api_player_id'] = df['player_name'].apply(find_player_id)
         
         return df
 
@@ -110,8 +105,7 @@ class OddsAPI:
             self,
             sport_key:str=OddsAPISettings.sports.nba, 
             region:str=OddsAPISettings.regions.us, 
-            mkt:str=OddsAPISettings.markets.totals, 
-            save:bool=False
+            mkt:str=OddsAPISettings.markets.totals
         ) -> pd.DataFrame:
 
         """
@@ -147,9 +141,5 @@ class OddsAPI:
                 df_dict['under_odds'].append([x for x in book['markets'][0]['outcomes'] if x['name'] == 'Under'][0]['price'])
         
         df = pd.DataFrame(df_dict)
-
-        if save:
-            today = date.today().strftime('%Y_%m_%d')
-            df.to_csv(export_folder + f'/totals_{today}.csv', index=False)
 
         return df

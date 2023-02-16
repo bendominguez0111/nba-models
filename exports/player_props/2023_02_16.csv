@@ -1,0 +1,1009 @@
+id,prop_type,player_name,matchup_home_team,matchup_away_team,sports_book,name,price,points,nba_api_player_id
+32734e67a6c7d13efbe8807a0e8e7cc8,player_points,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,fanduel,Over,-104,34.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_points,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,fanduel,Under,-122,34.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_points,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,fanduel,Over,-120,19.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_points,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,fanduel,Under,-106,19.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_points,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,bovada,Over,-105,34.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_points,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,bovada,Under,-125,34.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_points,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,bovada,Over,-120,19.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_points,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,bovada,Under,-110,19.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_rebounds,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,fanduel,Over,106,13.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_rebounds,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,fanduel,Under,-136,13.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_rebounds,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,fanduel,Over,112,5.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_rebounds,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,fanduel,Under,-142,5.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_rebounds,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,bovada,Over,105,13.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_rebounds,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,bovada,Under,-135,13.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_rebounds,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,bovada,Over,110,5.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_rebounds,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,bovada,Under,-145,5.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_assists,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,fanduel,Over,116,6.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_assists,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,fanduel,Under,-148,6.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_assists,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,fanduel,Over,-146,5.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_assists,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,fanduel,Under,114,5.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_assists,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,bovada,Over,-150,5.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_assists,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,bovada,Under,115,5.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_assists,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,bovada,Over,115,6.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_assists,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,bovada,Under,-150,6.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_threes,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,fanduel,Over,-210,0.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_threes,Giannis Antetokounmpo,Chicago Bulls,Milwaukee Bucks,fanduel,Under,162,0.5,203507.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_threes,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,fanduel,Over,136,2.5,201950.0
+32734e67a6c7d13efbe8807a0e8e7cc8,player_threes,Jrue Holiday,Chicago Bulls,Milwaukee Bucks,fanduel,Under,-174,2.5,201950.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-115,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-115,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-120,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-110,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-105,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-125,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-125,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-105,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-110,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-120,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-110,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-120,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-130,11.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Under,100,11.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-120,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-110,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-105,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-125,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-114,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-114,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-109,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-119,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-119,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-109,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-122,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-106,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-104,11.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-123,11.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-109,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-119,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-108,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-120,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-127,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-102,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-108,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-127,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-117,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-117,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-111,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-123,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-121,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-113,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-106,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-129,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-123,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-111,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-133,11.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-103,11.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-115,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-119,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-129,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-106,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-105,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-125,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-135,11.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Under,100,11.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-120,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-110,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-115,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-115,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-110,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-120,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-120,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-110,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-130,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-105,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-110,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-120,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-105,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-130,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Over,-120,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Under,-110,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Over,-115,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Under,-115,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Over,-105,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Under,-125,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Over,-120,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Under,-110,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Over,-115,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Under,-115,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Over,-115,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Under,-115,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Over,-120,11.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Under,-110,11.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Over,-120,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Under,-110,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Over,-105,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Under,-125,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-115,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Monte Morris,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-108,9.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-120,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-106,11.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-104,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-122,9.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-104,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-122,14.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-120,11.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Mike Conley,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-106,11.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-115,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Bradley Beal,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-111,22.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-120,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-106,28.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-111,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-115,22.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-111,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_points,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-115,23.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-110,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-120,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-115,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-115,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-125,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-105,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-135,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Under,105,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Over,105,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-135,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-115,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-115,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-130,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Under,100,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Over,140,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-175,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-130,10.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Under,100,10.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-125,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-103,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-116,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-111,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-137,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,106,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-123,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-105,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,103,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-133,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-175,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,134,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,105,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-135,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,110,10.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-143,10.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-119,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-115,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-139,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,102,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-113,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-121,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-131,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-104,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-129,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-106,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,129,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-179,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-111,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-123,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,102,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-139,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-135,10.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-101,10.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-130,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-105,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-130,2.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Under,100,2.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Over,135,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-185,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-110,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-120,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-115,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-120,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-120,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-115,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-140,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Under,105,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Over,105,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-140,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-135,10.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Under,100,10.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Over,-105,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Under,-125,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Over,-115,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Under,-115,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Over,-115,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Under,-115,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Over,-135,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Under,105,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Over,-105,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Under,-125,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Over,-105,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Under,-125,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Over,-135,2.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Under,105,2.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Over,125,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Under,-165,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Over,100,11.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Under,-130,11.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,fanduel,Over,126,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Monte Morris,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-162,3.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-102,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-125,5.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,fanduel,Over,100,11.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-128,11.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-132,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Mike Conley,Minnesota Timberwolves,Washington Wizards,fanduel,Under,104,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-113,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Bradley Beal,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-113,3.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-132,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,fanduel,Under,104,3.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-104,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-122,7.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-102,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-125,9.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-115,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_rebounds,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-111,6.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Over,115,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-145,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-145,4.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Under,115,4.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-115,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-115,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-145,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Under,115,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-120,6.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-110,6.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-130,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Under,100,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-149,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,115,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,112,4.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-145,4.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-118,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-110,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,109,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-141,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-106,6.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-122,6.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,103,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-133,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-104,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-123,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-148,4.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,108,4.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-133,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-103,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-115,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-119,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-139,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,102,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-133,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-103,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-163,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,118,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-115,6.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-119,6.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,110,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-151,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,159,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-224,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Over,165,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-225,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-120,6.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-110,6.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-135,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Under,100,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Over,115,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-150,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-150,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Under,110,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-150,4.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Under,110,4.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-130,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-105,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-115,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-115,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-160,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Under,120,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Over,120,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Under,-160,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Over,120,5.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Under,-160,5.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Over,-105,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Under,-125,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Over,-130,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Under,100,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Over,-125,6.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Under,-105,6.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Over,-150,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Under,115,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-104,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-122,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,fanduel,Over,122,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-156,4.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-120,6.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Mike Conley,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-106,6.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-130,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,fanduel,Under,102,3.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,fanduel,Over,124,5.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Bradley Beal,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-158,5.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-146,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_assists,Monte Morris,Minnesota Timberwolves,Washington Wizards,fanduel,Under,114,4.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Over,105,1.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-135,1.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-140,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Under,110,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Over,140,0.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-175,0.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-120,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-110,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-185,0.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Under,150,0.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Over,105,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-135,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-195,0.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Under,160,0.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-130,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Under,100,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-135,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Under,105,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-133,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-103,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-135,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-101,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-189,0.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,136,0.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-121,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-113,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-135,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-101,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,108,1.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-148,1.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,133,0.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-184,0.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-214,0.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,152,0.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,102,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-139,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Over,135,0.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-185,0.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-200,0.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Under,150,0.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-135,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Under,100,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Over,105,1.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-140,1.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Over,105,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-140,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-145,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Under,105,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-120,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-110,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-190,0.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Under,145,0.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-140,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Under,105,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Over,105,1.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Under,-135,1.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Over,-135,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Under,105,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Over,135,0.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Under,-180,0.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Over,-120,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Under,-110,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Over,-190,0.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Under,145,0.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Over,105,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Under,-135,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Over,-200,0.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Under,150,0.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Over,-130,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Under,100,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Over,-135,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_steals,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Under,105,0.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Over,115,0.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-145,0.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Over,195,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-240,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Over,180,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-220,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-135,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Under,105,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Over,155,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-190,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Over,130,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-160,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Over,350,0.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-475,0.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Over,520,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-775,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Over,135,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-165,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,120,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-166,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,448,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-854,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,139,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-194,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,152,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-214,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,184,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-264,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,108,0.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-148,0.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-131,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-104,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,311,0.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-504,0.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,126,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-174,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Over,170,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-250,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Over,333,0.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-550,0.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Over,500,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-900,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Over,110,0.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-150,0.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Over,125,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-165,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Over,185,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-250,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-140,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Under,105,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Over,150,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-200,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Over,130,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-175,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Over,110,0.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Under,-145,0.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Over,185,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Under,-250,0.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Over,170,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Under,-230,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Over,-135,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Under,105,0.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Over,150,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Under,-200,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Over,125,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Under,-165,0.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Over,340,0.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Under,-526,0.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Over,500,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Under,-900,0.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Over,130,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_blocks,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Under,-170,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-140,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Under,110,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-135,1.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Under,105,1.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Over,140,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-175,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-150,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Under,120,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Over,100,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-130,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-190,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Under,155,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Over,135,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-165,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-156,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,120,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,114,1.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-147,1.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,120,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-156,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-137,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,106,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,152,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,-200,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-175,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,134,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betonlineag,Under,-172,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betonlineag,Over,132,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-145,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,106,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-131,1.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-104,1.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,118,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-163,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-157,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,114,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,123,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-169,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-103,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-133,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-199,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,143,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-200,1.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Under,150,1.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Over,125,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-165,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-145,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Under,110,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Over,100,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-135,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Over,135,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-175,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-155,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Under,115,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-156,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,fanduel,Under,122,1.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,fanduel,Over,134,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-172,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,fanduel,Over,146,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Monte Morris,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-188,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley,Minnesota Timberwolves,Washington Wizards,fanduel,Over,150,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Mike Conley,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-194,2.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,fanduel,Over,112,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,fanduel,Under,-142,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Bradley Beal,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-160,1.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Bradley Beal,Minnesota Timberwolves,Washington Wizards,fanduel,Under,124,1.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,fanduel,Over,-172,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_threes,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,fanduel,Under,134,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Yes,900,,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,No,-1700,,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Yes,1700,,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,No,-9000,,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Yes,410,,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,No,-570,,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Yes,110,,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,No,-140,,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Yes,275,,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,No,-355,,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Yes,675,,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,No,-1100,,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Yes,-115,,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,No,-115,,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Yes,104,,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,No,-142,,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Yes,-121,,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,No,-113,,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Yes,1000,,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,No,-7504,,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Yes,355,,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,No,-604,,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Yes,699,,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,No,-2004,,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Yes,262,,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,No,-404,,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Yes,548,,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_double_double,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,No,-1204,,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-165,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,draftkings,Under,135,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-110,2.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Bradley Beal,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-120,2.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Over,185,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-230,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Over,165,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-205,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Over,115,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-145,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-155,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,draftkings,Under,125,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-155,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Mike Conley,Minnesota Timberwolves,Washington Wizards,draftkings,Under,125,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Over,175,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Monte Morris,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-215,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Over,-110,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,draftkings,Under,-120,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,152,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-214,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-157,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Mike Conley,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,114,1.5,201144.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-111,2.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Bradley Beal,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-123,2.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-108,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-127,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,159,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-224,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-148,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,108,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,108,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-148,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,165,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Monte Morris,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,-234,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Over,-174,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,williamhill_us,Under,126,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Over,175,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-250,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-160,1.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,betmgm,Under,120,1.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Over,170,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Monte Morris,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-225,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-175,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,betmgm,Under,130,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-160,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,betmgm,Under,120,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-110,2.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Bradley Beal,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-120,2.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Over,160,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-225,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Over,110,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-150,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Over,-110,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,betmgm,Under,-120,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Over,-170,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Anthony Edwards,Minnesota Timberwolves,Washington Wizards,bovada,Under,130,2.5,1630162.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Over,-110,2.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Bradley Beal,Minnesota Timberwolves,Washington Wizards,bovada,Under,-120,2.5,203078.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Over,175,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Daniel Gafford,Minnesota Timberwolves,Washington Wizards,bovada,Under,-240,1.5,1629655.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Over,165,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Jaden McDaniels,Minnesota Timberwolves,Washington Wizards,bovada,Under,-220,1.5,1630183.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Over,110,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kristaps Porzingis,Minnesota Timberwolves,Washington Wizards,bovada,Under,-145,2.5,204001.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Over,-160,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Kyle Kuzma,Minnesota Timberwolves,Washington Wizards,bovada,Under,120,2.5,1628398.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Over,-160,1.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Mike Conley Jr.,Minnesota Timberwolves,Washington Wizards,bovada,Under,120,1.5,
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Over,170,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Monte Morris,Minnesota Timberwolves,Washington Wizards,bovada,Under,-230,1.5,1628420.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Over,-110,1.5,203497.0
+8b80fc750627fcdf4d465cf2bf265acc,player_turnovers,Rudy Gobert,Minnesota Timberwolves,Washington Wizards,bovada,Under,-120,1.5,203497.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-110,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-120,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-125,20.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-105,20.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-115,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-115,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-120,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-110,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-115,11.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_points,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-115,11.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-120,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-110,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-125,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-105,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-120,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-108,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-114,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-114,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-108,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-120,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-112,11.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_points,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-115,11.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-105,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-123,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-103,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-125,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Devin Booker,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-119,24.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_points,Devin Booker,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-109,24.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-123,21.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-105,21.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-121,11.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_points,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-113,11.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-121,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-113,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-108,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-127,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-109,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-125,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-123,20.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-111,20.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-127,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-108,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-115,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-119,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,bovada,Over,-115,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,bovada,Under,-115,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,bovada,Over,-105,21.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,bovada,Under,-125,21.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Devin Booker,Phoenix Suns,Los Angeles Clippers,bovada,Over,-110,24.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_points,Devin Booker,Phoenix Suns,Los Angeles Clippers,bovada,Under,-120,24.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,bovada,Over,-115,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,bovada,Under,-115,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,bovada,Over,-125,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,bovada,Under,-105,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Morris Marcus,Phoenix Suns,Los Angeles Clippers,bovada,Over,-115,11.5,
+4fe7239b064a76282f839fdcadc92560,player_points,Morris Marcus,Phoenix Suns,Los Angeles Clippers,bovada,Under,-115,11.5,
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,bovada,Over,-120,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,bovada,Under,-110,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,bovada,Over,-125,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,bovada,Under,-105,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-113,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Chris Paul,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-113,15.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_points,Marcus Morris,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-115,11.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_points,Marcus Morris,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-111,11.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-125,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Terance Mann,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-102,9.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-113,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-113,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-125,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-102,23.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-120,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Paul George,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-108,20.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-106,21.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-120,21.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_points,Devin Booker,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-108,24.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_points,Devin Booker,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-118,24.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-110,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-120,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Over,100,11.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-130,11.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Over,105,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-135,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Over,105,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-135,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Over,100,3.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-130,3.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Over,120,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-150,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-130,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Under,100,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-132,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,102,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-130,11.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,100,11.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-139,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,107,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-132,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,102,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-130,3.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,100,3.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-147,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,113,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-102,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-127,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Devin Booker,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,108,3.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Devin Booker,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-141,3.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-127,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-108,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-101,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-135,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-104,3.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-131,3.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,100,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-137,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-101,11.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-135,11.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,100,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-137,9.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,110,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-151,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,bovada,Over,110,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,bovada,Under,-145,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,bovada,Over,-135,10.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,bovada,Under,105,10.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Devin Booker,Phoenix Suns,Los Angeles Clippers,bovada,Over,-150,3.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Devin Booker,Phoenix Suns,Los Angeles Clippers,bovada,Under,115,3.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,bovada,Over,-135,8.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,bovada,Under,105,8.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,bovada,Over,105,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,bovada,Under,-135,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Morris Marcus,Phoenix Suns,Los Angeles Clippers,bovada,Over,105,3.5,
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Morris Marcus,Phoenix Suns,Los Angeles Clippers,bovada,Under,-135,3.5,
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,bovada,Over,115,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,bovada,Under,-150,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,bovada,Over,-125,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,bovada,Under,-105,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,fanduel,Over,112,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Chris Paul,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-142,4.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,fanduel,Over,116,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Paul George,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-148,5.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-138,8.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,fanduel,Under,108,8.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,fanduel,Over,104,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-132,5.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Marcus Morris,Phoenix Suns,Los Angeles Clippers,fanduel,Over,104,3.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Marcus Morris,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-132,3.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-136,10.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,fanduel,Under,106,10.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-122,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Terance Mann,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-104,3.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Devin Booker,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-148,3.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_rebounds,Devin Booker,Phoenix Suns,Los Angeles Clippers,fanduel,Under,116,3.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-120,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-110,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Over,135,4.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-165,4.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-135,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Under,105,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Over,125,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-155,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-116,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-111,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,139,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-182,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-172,4.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,132,4.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-116,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-111,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,102,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-132,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-154,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,118,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Devin Booker,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-137,4.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Devin Booker,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,106,4.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-137,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,100,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-160,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,116,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,123,4.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-169,4.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-199,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,143,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,116,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-160,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-119,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-115,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-117,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-117,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,bovada,Over,-110,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,bovada,Under,-120,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,bovada,Over,-180,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,bovada,Under,135,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Devin Booker,Phoenix Suns,Los Angeles Clippers,bovada,Over,105,4.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Devin Booker,Phoenix Suns,Los Angeles Clippers,bovada,Under,-135,4.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,bovada,Over,-160,3.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,bovada,Under,120,3.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,bovada,Over,-135,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,bovada,Under,105,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,bovada,Over,120,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,bovada,Under,-160,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,fanduel,Over,122,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Terance Mann,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-156,2.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-136,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Paul George,Phoenix Suns,Los Angeles Clippers,fanduel,Under,106,4.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-174,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,fanduel,Under,136,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-108,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Chris Paul,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-118,9.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-158,3.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,fanduel,Under,124,3.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Devin Booker,Phoenix Suns,Los Angeles Clippers,fanduel,Over,106,4.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_assists,Devin Booker,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-136,4.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Over,115,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-145,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-105,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-125,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Over,170,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-210,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Over,145,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-180,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Over,105,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-135,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Over,135,1.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-165,1.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-115,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-115,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-108,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-127,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,102,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-139,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,159,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-224,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-119,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-115,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,136,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-189,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,126,1.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-174,1.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,108,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_steals,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-148,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Over,225,0.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-285,0.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-160,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Under,130,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-180,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Under,145,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Over,140,0.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-175,0.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Over,250,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-320,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Over,250,0.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-320,0.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Over,250,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-320,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-169,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,123,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,208,0.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-304,0.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-194,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,139,0.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,227,0.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-339,0.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,236,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-354,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,133,0.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-184,0.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,219,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_blocks,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-324,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-120,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-110,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Over,625,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-1000,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-140,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Under,110,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-130,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Under,100,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-110,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-120,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Over,165,1.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-205,1.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Chris Paul,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-111,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Chris Paul,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-116,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-1000,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,546,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,108,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-141,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,104,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-135,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Paul George,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-118,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Paul George,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,-110,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Terance Mann,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-208,1.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Terance Mann,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,158,1.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Devin Booker,Phoenix Suns,Los Angeles Clippers,betonlineag,Under,-156,2.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Devin Booker,Phoenix Suns,Los Angeles Clippers,betonlineag,Over,120,2.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,522,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-1104,0.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-106,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-129,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,152,1.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-214,1.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-133,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-103,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-133,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-103,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-123,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-111,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Terance Mann,Phoenix Suns,Los Angeles Clippers,fanduel,Over,154,1.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Terance Mann,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-200,1.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Paul George,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-111,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Paul George,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-115,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Marcus Morris,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-132,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Marcus Morris,Phoenix Suns,Los Angeles Clippers,fanduel,Under,104,1.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-142,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,fanduel,Under,112,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Devin Booker,Phoenix Suns,Los Angeles Clippers,fanduel,Over,120,2.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Devin Booker,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-154,2.5,1626164.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Chris Paul,Phoenix Suns,Los Angeles Clippers,fanduel,Over,-120,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_threes,Chris Paul,Phoenix Suns,Los Angeles Clippers,fanduel,Under,-106,1.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Yes,115,,101108.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,No,-145,,101108.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Yes,-190,,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,No,155,,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Yes,205,,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,No,-255,,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Yes,1100,,202695.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,No,-2500,,202695.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Yes,1000,,202331.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,No,-2100,,202331.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Yes,1600,,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,No,-7000,,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Yes,835,,202695.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,No,-3304,,202695.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Yes,964,,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,No,-6004,,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Yes,184,,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,No,-264,,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Yes,110,,101108.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,No,-151,,101108.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Yes,762,,202331.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,No,-2504,,202331.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Yes,-189,,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_double_double,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,No,136,,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Over,125,2.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Chris Paul,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-155,2.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-130,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,draftkings,Under,100,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Over,140,1.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-175,1.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-125,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-105,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-115,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,draftkings,Under,-115,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-140,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Paul George,Phoenix Suns,Los Angeles Clippers,draftkings,Under,110,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Over,-190,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Terance Mann,Phoenix Suns,Los Angeles Clippers,draftkings,Under,155,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,116,2.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Chris Paul,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-160,2.5,101108.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-131,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Kawhi Leonard,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-104,1.5,202695.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-121,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Marcus Morris Sr.,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-113,0.5,202694.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-199,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Terance Mann,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,143,0.5,1629611.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,126,1.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Ivica Zubac,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-174,1.5,1627826.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-133,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Deandre Ayton,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,-103,1.5,1629028.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Over,-148,2.5,202331.0
+4fe7239b064a76282f839fdcadc92560,player_turnovers,Paul George,Phoenix Suns,Los Angeles Clippers,williamhill_us,Under,108,2.5,202331.0
