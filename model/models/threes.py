@@ -3,15 +3,18 @@ import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
 from sklearn.mixture import GaussianMixture as GMM
+from sklearn.model_selection import GridSearchCV
+import logging
+from tqdm import trange
 
 from model.nba_api_helpers import get_player_shot_loc_data, get_league_shot_loc_data
 
 def run_threes_model(
         player_name:str="Buddy Hield", 
         opponent:str="BOS",
-        n_components:int=10, 
+        n_components:int=5, 
         bootstrap_samples:int=100_000,
-        n_simulated_games:int=50_000,
+        n_simulated_games:int=200_000,
         plot:bool=True
     ):
 
@@ -29,8 +32,19 @@ def run_threes_model(
     league_df = get_league_shot_loc_data(context_measure_simple='FG3A')
     league_test_xy = league_df[['LOC_X', 'LOC_Y']].values.reshape(-1, 2)
 
-    #fit the GMM model
-    model = GMM(n_components=n_components, covariance_type='diag', random_state=0).fit(threes_train_xy)
+    param_grid = {
+        "n_components": range(3, 15),
+        "covariance_type": ["spherical", "tied", "diag", "full"],
+    }
+    grid_search = GridSearchCV(
+        GMM(), param_grid=param_grid, scoring=lambda estimator, x: -estimator.bic(x)
+    )
+
+    grid_search.fit(threes_train_xy)
+    
+    covariance_type = grid_search.best_params_['covariance_type']
+    n_components = grid_search.best_params_['n_components']
+    model = GMM(n_components=n_components, covariance_type=covariance_type, random_state=0).fit(threes_train_xy)
     model_labels_ = model.predict(threes_train_xy)
 
     league_model_labels_ = model.predict(league_test_xy)
@@ -67,7 +81,7 @@ def run_threes_model(
 
     fg3m_s = []
     #simulate n_simulations games
-    for _ in range(n_simulated_games):
+    for _ in trange(n_simulated_games, desc=f'Simulating 3PM outcomes for {player_name} vs {opponent}...'):
 
         #simulate FGA
         fga_i = np.random.poisson(np.random.normal(fga_per_game_est_mean, fga_per_game_est_std))
@@ -90,7 +104,7 @@ def run_threes_model(
         sns.set_style('darkgrid')
         sns.set_context("poster")
         plt.figure(figsize=(10, 10))
-        plt.hist(fg3m_s, bins=10, alpha=0.4, color="#3386FF", ec='#FF5733')
+        sns.ecdfplot(fg3m_s, stat='proportion', color='red', alpha=0.5)
         plt.title(f'Results of {n_simulated_games} simulated games for {player_name}')
         plt.xlabel('3PM')
         plt.ylabel('Density')
