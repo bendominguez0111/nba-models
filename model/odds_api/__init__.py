@@ -116,7 +116,6 @@ class OddsAPI:
                             df_dict['defensive_matchup'].append(home_team)
                         else:
                             df_dict['defensive_matchup'].append(np.nan)
-                        print(df_dict)
         
         df = pd.DataFrame(df_dict)
         
