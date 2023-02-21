@@ -16,4 +16,7 @@ root.addHandler(handler)
 
 model = Model(export_folder=EXPORT_FOLDER, odds_api_key=ODDS_API_KEY)
 
-model.run_model()
+model.run_model(
+    bootstrap_samples=100_000,
+    n_simulated_games=200_000
+)

@@ -48,7 +48,11 @@ class Model:
     def compress_lines(self):
         return
     
-    def run_model(self):
+    def run_model(
+            self, 
+            bootstrap_samples:int=100_000,
+            n_simulated_games:int=200_000
+        ):
 
         self.load_data()
 
@@ -77,8 +81,8 @@ class Model:
             simulated_fgms = threes_model.run_threes_model(
                 player_name, 
                 defensive_matchup, 
-                bootstrap_samples=100_000, 
-                n_simulated_games=200_000, 
+                bootstrap_samples=bootstrap_samples, 
+                n_simulated_games=n_simulated_games, 
                 plot=False
             )
 
