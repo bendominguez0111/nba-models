@@ -117,7 +117,9 @@ class ThreesModel:
                 fg_percent_by_cluster.values * def_adjustment, model.predict_proba(sampled_shot_locs).T
             )
 
-            fg3m_s.append(weighted_fg_percent.sum())
+            fgm_i = np.vectorize(np.random.binomial)(1, weighted_fg_percent)
+
+            fg3m_s.append(fgm_i.sum())
 
         if plot:
             sns.set_style('darkgrid')

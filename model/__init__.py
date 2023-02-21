@@ -78,7 +78,7 @@ class Model:
                 player_name, 
                 defensive_matchup, 
                 bootstrap_samples=100_000, 
-                n_simulated_games=10_000, 
+                n_simulated_games=200_000, 
                 plot=False
             )
 
