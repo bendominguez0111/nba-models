@@ -53,6 +53,12 @@ To import all of the data at the same time and run the threes model, use the mai
 
 ```python main.py```
 
+### Options:
+```bash
+    -n, --n-simulated-games           Number of games to simulate / simulation. Suggested to set to 50,000 to 200,000.
+    -b, --bootstrap_samples           Number of bootstrap resamples to use in simulations. Suggested to just use 100_000 unless you really want to change it.
+```
+
 ![example image of sims running](png/example.jpg)
 
 Alternatively, you could also run each of the models seperately, and simply import them from the `model.models` module.
