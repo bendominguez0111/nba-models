@@ -1,4 +1,6 @@
+import logging
 from difflib import SequenceMatcher
+import time
 
 import numpy as np
 import pandas as pd
@@ -7,7 +9,10 @@ from nba_api.stats.endpoints import (commonplayerinfo, leaguegamefinder,
 from nba_api.stats.static import players, teams
 
 
-def find_player_id(player_name):
+def get_all_players() -> pd.DataFrame:
+    return
+
+def get_player_id(player_name) -> str or np.nan:
 
     """
     Finds the player id for a given player name
@@ -24,8 +29,26 @@ def find_player_id(player_name):
         return str(possible_matches[idx_closest_match]['id'])
     else:
         return np.nan
+    
+def get_player_team_id(player_id:str, res_wait: int = 0, timeout: int = 30) -> str:
 
-def get_player_game_log(player_id: str, season: str):
+    """
+    Gets the team id for a given player id
+    :param player_id: The player id to get the team id for
+    :return: The team id
+    """
+    if res_wait > 0:
+        logging.info(f'Waiting {res_wait} seconds before making request')
+        time.sleep(res_wait)
+    if not type(player_id) == str:
+        raise TypeError('player_id must be a string')
+
+    player_info = commonplayerinfo.CommonPlayerInfo(player_id=player_id, timeout=timeout)
+    team_id = player_info.get_data_frames()[0]['TEAM_ID'][0]
+
+    return team_id
+
+def get_player_game_log(player_id: str, season: str) -> pd.DataFrame:
     
     if not type(player_id) == str:
         raise TypeError('player_id must be a string')
@@ -35,7 +58,7 @@ def get_player_game_log(player_id: str, season: str):
 
     return game_log_df
 
-def get_player_shot_loc_data(player_name: str, team_id: int = None, context_measure_simple: str = 'FGA'):
+def get_player_shot_loc_data(player_name: str, team_id: str = None, context_measure_simple: str = 'FGA') -> pd.DataFrame:
 
     """
     Gets the shot location data for a given player
@@ -45,16 +68,14 @@ def get_player_shot_loc_data(player_name: str, team_id: int = None, context_meas
     :param context_measure_simple: Types of shots to get (eg. FGA, FG3A, etc.)
     :return: A pandas dataframe containing the shot data
     """
-
     player_id = players.find_players_by_full_name(player_name)[0]['id']
-    player_info = commonplayerinfo.CommonPlayerInfo(player_id=player_id)
-    team_id = player_info.get_data_frames()[0]['TEAM_ID'][0]
+    team_id = get_player_team_id(str(player_id))
     shot_chart = shotchartdetail.ShotChartDetail(player_id=player_id, team_id=team_id, context_measure_simple=context_measure_simple)
     df = pd.concat(shot_chart.get_data_frames())
 
     return df
 
-def get_league_shot_loc_data(season:str='2022', context_measure_simple: str = 'FGA'):
+def get_league_shot_loc_data(season:str='2022', context_measure_simple: str = 'FGA') -> pd.DataFrame:
     """
     Get league shot data
     :param season: The season to get the shot data for
@@ -88,7 +109,7 @@ def get_league_shot_loc_data(season:str='2022', context_measure_simple: str = 'F
         player_id=0,
         team_id=0,
         season_type_all_star='Regular Season',
-        context_measure_simple = 'FG3A'
+        context_measure_simple = context_measure_simple
     )
     league_df = pd.concat(league_shots.get_data_frames())
     league_df = league_df.loc[(league_df['GRID_TYPE'] == 'Shot Chart Detail'), ['GAME_ID', 'TEAM_NAME', 'TEAM_ID', 'LOC_X', 'LOC_Y', 'SHOT_MADE_FLAG']]

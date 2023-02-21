@@ -1,9 +1,11 @@
+import numpy as np
 import pandas as pd
 import requests
+from nba_api.stats.static import teams
 
-from model.odds_api.config import OddsAPISettings, OddsAPIEndpoints
+from model.nba_api_helpers import get_player_id, get_player_team_id
+from model.odds_api.config import OddsAPIEndpoints, OddsAPISettings
 
-from model.nba_api_helpers import find_player_id
 
 class OddsAPI:
     """
@@ -59,12 +61,13 @@ class OddsAPI:
             'id': [],
             'prop_type': [],
             'player_name': [],
-            'matchup_home_team': [],
-            'matchup_away_team': [],
+            'player_team': [],
+            'defensive_matchup': [],
             'sports_book': [],  
             'name': [],
             'price': [],
-            'points': []
+            'points': [],
+            'nba_api_player_id': []
         }
 
         for event in events:
@@ -88,15 +91,34 @@ class OddsAPI:
                         df_dict['id'].append(event)
                         df_dict['prop_type'].append(market)
                         df_dict['player_name'].append(prop['description'])
-                        df_dict['matchup_home_team'].append(data['home_team'])
-                        df_dict['matchup_away_team'].append(data['away_team'])
+                        
                         df_dict['sports_book'].append(book['key'])
                         df_dict['name'].append(prop['name'])
                         df_dict['price'].append(prop['price'])
                         df_dict['points'].append(prop.get('point'))
+                        
+                        home_team = data['home_team']
+                        away_team = data['away_team']
+                        home_team = teams.find_teams_by_full_name(home_team)[0]['abbreviation']
+                        away_team = teams.find_teams_by_full_name(away_team)[0]['abbreviation']
+
+                        #nba api stuff
+                        nba_api_player_id = get_player_id(prop['description'])
+                        df_dict['nba_api_player_id'].append(nba_api_player_id)
+
+                        player_team_id = get_player_team_id(nba_api_player_id, timeout=30, res_wait=1)
+                        player_team = teams.find_team_name_by_id(player_team_id)['abbreviation']
+                        df_dict['player_team'].append(player_team)
+
+                        if player_team == home_team:
+                            df_dict['defensive_matchup'].append(away_team)
+                        elif player_team == away_team:
+                            df_dict['defensive_matchup'].append(home_team)
+                        else:
+                            df_dict['defensive_matchup'].append(np.nan)
+                        print(df_dict)
         
         df = pd.DataFrame(df_dict)
-        df['nba_api_player_id'] = df['player_name'].apply(find_player_id)
         
         return df
 
