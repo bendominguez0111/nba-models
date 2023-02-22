@@ -1,3 +1,5 @@
+import logging
+
 import numpy as np
 import pandas as pd
 import requests
@@ -105,8 +107,14 @@ class OddsAPI:
                         #nba api stuff
                         nba_api_player_id = get_player_id(prop['description'])
                         df_dict['nba_api_player_id'].append(nba_api_player_id)
-
-                        player_team_id = get_player_team_id(nba_api_player_id, timeout=30, res_wait=1)
+                    
+                        try:
+                            player_team_id = get_player_team_id(nba_api_player_id, timeout=30, res_wait=1)
+                        except Exception as e:
+                            logging.error(f'Error getting player team id for {prop["description"]}: {e}')
+                            df_dict['player_team'].append(np.nan)
+                            df_dict['defensive_matchup'].append(np.nan)
+                            continue
                         player_team = teams.find_team_name_by_id(player_team_id)['abbreviation']
                         df_dict['player_team'].append(player_team)
 
