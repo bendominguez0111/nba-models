@@ -8,10 +8,6 @@ from nba_api.stats.endpoints import (commonplayerinfo, leaguegamefinder,
                                      playergamelog, shotchartdetail)
 from nba_api.stats.static import players, teams
 
-
-def get_all_players() -> pd.DataFrame:
-    return
-
 def get_player_id(player_name) -> str or np.nan:
 
     """
@@ -105,12 +101,14 @@ def get_league_shot_loc_data(season:str='2022', context_measure_simple: str = 'F
             return team_b
         
     games_df = pd.concat(leaguegamefinder.LeagueGameFinder().get_data_frames())
+    
     league_shots = shotchartdetail.ShotChartDetail(
         player_id=0,
         team_id=0,
         season_type_all_star='Regular Season',
         context_measure_simple = context_measure_simple
     )
+
     league_df = pd.concat(league_shots.get_data_frames())
     league_df = league_df.loc[(league_df['GRID_TYPE'] == 'Shot Chart Detail'), ['GAME_ID', 'TEAM_NAME', 'TEAM_ID', 'LOC_X', 'LOC_Y', 'SHOT_MADE_FLAG']]
     league_df['TEAM_ABRV'] = league_df['TEAM_NAME'].apply(find_team_abrv)

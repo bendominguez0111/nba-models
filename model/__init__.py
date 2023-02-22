@@ -73,21 +73,24 @@ class Model:
         })
 
         for idx, row in threes_over_unders.iterrows():
+            try:
+                player_name = row['player_name']
+                defensive_matchup = row['defensive_matchup']
+                points = row['points']
 
-            player_name = row['player_name']
-            defensive_matchup = row['defensive_matchup']
-            points = row['points']
+                simulated_fgms = threes_model.run_model(
+                    player_name, 
+                    defensive_matchup, 
+                    bootstrap_samples=bootstrap_samples, 
+                    n_simulated_games=n_simulated_games, 
+                    plot=False
+                )
 
-            simulated_fgms = threes_model.run_threes_model(
-                player_name, 
-                defensive_matchup, 
-                bootstrap_samples=bootstrap_samples, 
-                n_simulated_games=n_simulated_games, 
-                plot=False
-            )
-
-            threes_over_unders.loc[idx, 'p(over)'] = sum(simulated_fgms > points) / len(simulated_fgms)
-            threes_over_unders.loc[idx, 'p(under)'] = sum(simulated_fgms < points) / len(simulated_fgms)
+                threes_over_unders.loc[idx, 'p(over)'] = sum(simulated_fgms > points) / len(simulated_fgms)
+                threes_over_unders.loc[idx, 'p(under)'] = sum(simulated_fgms < points) / len(simulated_fgms)
+            except Exception as e:
+                print(e)
+                logging.error(f'Error running model for {player_name} {defensive_matchup} {points}: {e}')
         
         threes_props = threes_props.merge(threes_over_unders, on=['player_name', 'defensive_matchup', 'points'], how='left')
             

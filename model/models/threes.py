@@ -17,24 +17,29 @@ class ThreesModel:
     """
 
     @staticmethod
-    def run_threes_model(
+    def run_model(
             player_name:str="Buddy Hield", 
             opponent:str="BOS",
             n_components:int=5, 
             bootstrap_samples:int=100_000,
             n_simulated_games:int=200_000,
-            plot:bool=True
+            plot:bool=False,
+            plot_args:dict={
+                'seaborn_style': 'darkgrid',
+                'seaborn_context': 'poster',
+                'figsize': (12, 12)
+            }
         ):
 
         """
-        Main method to run the model
+        Main method to run Threes Model
         :param player_name: The name of the player to simulate shots for
-        :param opponent: The opponent defense to simulate shots against
+        :param opponent: The opponent defense to simulate shots against (use 3 letter abbreviation)
         :param n_components: The number of clusters to use for the GMM
-        :param bootstrap_samples: The number of bootstrap samples to use for the simulation
-        :param n_simulated_games: The number of simulated games to run
+        :param bootstrap_samples: The number of bootstrap samples to use (suggested 100,000 - 500,000)
+        :param n_simulated_games: The number of simulated games to run (suggested 10,000 - 200,000)
         :param plot: Whether to plot the results
-        :return: A pandas dataframe containing the results
+        :return: numpy array of simulated shot results (1 = made, 0 = missed), length = n_simulated_games
         """
 
         player_df = get_player_shot_loc_data(player_name, context_measure_simple='FG3A')
@@ -90,7 +95,7 @@ class ThreesModel:
         opponent_fg_percent_by_cluster = pd.DataFrame(opponent_df.groupby('cluster')['SHOT_MADE_FLAG'].value_counts(normalize=True)).rename({'SHOT_MADE_FLAG': 'fg_percent'}, axis=1).reset_index()
         opponent_fg_percent_by_cluster = opponent_fg_percent_by_cluster.loc[opponent_fg_percent_by_cluster['SHOT_MADE_FLAG'] == 1].drop('SHOT_MADE_FLAG', axis=1)['fg_percent']
         
-        #opponent ratings
+        #opponent defensive ratings per cluster relative to league average
         def_adjustment = opponent_fg_percent_by_cluster / league_fg_percent_by_cluster
 
         #bootstrap resample from FGA data to find normal distribution fo estimated mean FGA per game
@@ -122,9 +127,9 @@ class ThreesModel:
             fg3m_s.append(fgm_i.sum())
 
         if plot:
-            sns.set_style('darkgrid')
-            sns.set_context("poster")
-            plt.figure(figsize=(10, 10))
+            sns.set_style(plot_args.get('seaborn_style'))
+            sns.set_context(plot_args.get('seaborn_context'))
+            plt.figure(figsize=plot_args.get('figsize'))
             sns.ecdfplot(fg3m_s, stat='proportion', color='red', alpha=0.5)
             plt.title(f'Results of {n_simulated_games} simulated games for {player_name}')
             plt.xlabel('3PM')

@@ -1,6 +1,7 @@
 import pandas as pd
 
 def calc_implied_probability(money_line) -> float:
+
     """Converts a money line to an implied probability.
     :param money_line: The money line to convert
     :param round_n: The number of decimal places to round to
@@ -12,8 +13,10 @@ def calc_implied_probability(money_line) -> float:
     else:
         return 1 - (money_line / (money_line + 100))
     
-def calc_suggested_kelly(row:pd.Series):
+def calc_suggested_kelly(row:pd.Series) -> float:
+
     """Calculate the suggested kelly bet size."""
+
     if row['edge'] > 0:
         b = (1 / row['implied_odds']) - 1
         if row['name'] == 'Over':
@@ -23,8 +26,10 @@ def calc_suggested_kelly(row:pd.Series):
     else:
         return 0
     
-def calc_edge_for_over_under(row:pd.Series):
+def calc_edge_for_over_under(row:pd.Series) -> float:
+
     """Calculate the edge for an over/under bet."""
+    
     if row['name'] == 'Over':
         return row['p(over)'] - row['implied_odds']
     else:
