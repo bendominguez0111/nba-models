@@ -9,7 +9,8 @@ from model.odds_api import OddsAPI
 from model.odds_api.config import OddsAPIMarkets
 from model.utils.betting_math import (calc_edge_for_over_under,
                                       calc_suggested_kelly,
-                                      calc_implied_probability)
+                                      calc_implied_probability,
+                                      calc_expected_value)
 
 
 class Model:
@@ -89,11 +90,12 @@ class Model:
                 threes_over_unders.loc[idx, 'p(over)'] = sum(simulated_fgms > points) / len(simulated_fgms)
                 threes_over_unders.loc[idx, 'p(under)'] = sum(simulated_fgms < points) / len(simulated_fgms)
             except Exception as e:
-                print(e)
                 logging.error(f'Error running model for {player_name} {defensive_matchup} {points}: {e}')
         
         threes_props = threes_props.merge(threes_over_unders, on=['player_name', 'defensive_matchup', 'points'], how='left')
             
         threes_props['edge'] = threes_props.apply(calc_edge_for_over_under, axis=1)
+        threes_props['ev'] = threes_props.apply(calc_expected_value, axis=1)
         threes_props['suggested_kelly'] = threes_props.apply(calc_suggested_kelly, axis=1)
+
         threes_props.to_csv(self.export_folder + f'/sim_results/{STR_TODAY}.csv', index=False)

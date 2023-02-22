@@ -34,3 +34,14 @@ def calc_edge_for_over_under(row:pd.Series) -> float:
         return row['p(over)'] - row['implied_odds']
     else:
         return row['p(under)'] - row['implied_odds']
+    
+def calc_expected_value(row:pd.Series) -> float:
+
+    """Calculate the expected value of a bet."""
+
+    if row['name'] == 'Over':
+        return (row['p(over)'] * (1/row['implied_odds'])) - (row['p(under)'] * (1/(1-row['implied_odds'])))
+    elif row['name'] == 'Under':
+        return (row['p(under)'] * (1/row['implied_odds'])) - (row['p(over)'] * (1/(1-row['implied_odds'])))
+    
+    return

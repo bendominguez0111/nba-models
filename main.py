@@ -12,7 +12,6 @@ args = parser.parse_args()
 bootstrap_samples = int(args.boostrap_samples)
 n_simulated_games = int(args.n_simulated_games)
 
-print(bootstrap_samples, n_simulated_games)
 #logging settings
 root = logging.getLogger()
 root.setLevel(logging.DEBUG if DEBUG else logging.INFO)
