@@ -7,6 +7,7 @@ import pandas as pd
 from nba_api.stats.endpoints import (commonplayerinfo, leaguegamefinder,
                                      playergamelog, shotchartdetail)
 from nba_api.stats.static import players, teams
+from sklearn.ensemble import RandomForestClassifier
 
 def get_player_id(player_name) -> str or np.nan:
 
@@ -121,3 +122,19 @@ def get_league_shot_loc_data(season:str='2022', context_measure_simple: str = 'F
     league_df['DEF'] = league_df.apply(find_defense, axis=1)
 
     return league_df[['DEF', 'LOC_X', 'LOC_Y', 'SHOT_MADE_FLAG']]
+
+def generate_3_point_classifier():
+
+    league_shots = shotchartdetail.ShotChartDetail(
+        player_id=0,
+        team_id=0,
+        season_type_all_star='Regular Season',
+        context_measure_simple = 'FGA'
+    )
+
+    league_shots_df = league_shots.get_data_frames()[0]
+    league_shots_df['three'] = league_shots_df['SHOT_ZONE_BASIC'].isin(['Left Corner 3', 'Above the Break 3', 'Right Corner 3','Backcourt']).astype(int)
+    X, y = league_shots_df[['LOC_X', 'LOC_Y']].values, league_shots_df['three'].values
+    clf = RandomForestClassifier()
+    clf.fit(X, y)
+    return clf

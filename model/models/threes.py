@@ -4,10 +4,12 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 from sklearn.mixture import GaussianMixture as GMM
 from sklearn.model_selection import GridSearchCV
+
 from tqdm import trange
 
 from model.nba_api_helpers import (get_league_shot_loc_data,
-                                   get_player_shot_loc_data)
+                                   get_player_shot_loc_data,
+                                   generate_3_point_classifier)
 
 
 class ThreesModel:
@@ -23,6 +25,7 @@ class ThreesModel:
             n_components:int=5, 
             bootstrap_samples:int=100_000,
             n_simulated_games:int=200_000,
+            apply_3_point_classifier:bool=False,
             plot:bool=False,
             plot_args:dict={
                 'seaborn_style': 'darkgrid',
@@ -103,6 +106,9 @@ class ThreesModel:
         fga_per_game_est_mean = np.mean(fga_per_game_est)
         fga_per_game_est_std = np.std(fga_per_game_est)
 
+        #fit a classifier to league shot data to predict whether a shot is a 3 or not
+        clf = generate_3_point_classifier()
+
         fg3m_s = []
         #simulate n_simulations games
         for _ in trange(n_simulated_games, desc=f'Simulating 3PM outcomes for {player_name} vs {opponent}...'):
@@ -115,7 +121,27 @@ class ThreesModel:
                 continue
 
             #simulate shot locations based off density of where shots are taken
-            sampled_shot_locs = model.sample(fga_i)[0]
+            sampled_shot_locs = []
+            for _ in range(fga_i):
+
+                selected_cluster = np.random.choice(np.arange(0, n_components), p=model.weights_)
+                #this is technically more accurate, but slows down the sim significantly
+                if apply_3_point_classifier:
+                    three_point_shot = False
+                    while not three_point_shot:
+                        sampled_shot = np.random.multivariate_normal(
+                            model.means_[selected_cluster], model.covariances_[selected_cluster]
+                        )
+                        three_point_shot = bool(clf.predict([sampled_shot])[0])
+
+                    sampled_shot_locs = np.append(sampled_shot_locs, sampled_shot)
+                else:
+                    sampled_shot = np.random.multivariate_normal(
+                            model.means_[selected_cluster], model.covariances_[selected_cluster]
+                    )
+                    sampled_shot_locs = np.append(sampled_shot_locs, sampled_shot)
+
+            sampled_shot_locs = sampled_shot_locs.reshape(-1, 2)
 
             #apply weighting to each shot based off cluster
             weighted_fg_percent = np.dot(
