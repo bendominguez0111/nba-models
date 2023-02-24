@@ -26,6 +26,7 @@ class ThreesModel:
             n_components:int=5, 
             bootstrap_samples:int=100_000,
             n_simulated_games:int=200_000,
+            min_samples:int=25,
             apply_3_point_classifier:bool=False,
             plot:bool=False,
             plot_args:dict={
@@ -33,7 +34,7 @@ class ThreesModel:
                 'seaborn_context': 'poster',
                 'figsize': (12, 12)
             }
-        ):
+        ) -> np.array:
 
         """
         Main method to run Threes Model
@@ -54,8 +55,8 @@ class ThreesModel:
         threes = player_df.loc[:, ['GAME_ID', 'LOC_X', 'LOC_Y', 'SHOT_MADE_FLAG', 'SHOT_ATTEMPTED_FLAG']]
         threes = threes.dropna()
 
-        if len(threes) < 14:
-            logging.error(f'Error getting player data for {player_name}. Not enough data to run model.')
+        if threes.shape[0] < min_samples:
+            logging.error(f'Not enough samples ({min_samples}) to run model for {player_name}. Skipping.')
             return np.array([])
 
         threes['SHOT_MADE_FLAG'] = threes['SHOT_MADE_FLAG'].astype(np.int64)
@@ -72,11 +73,14 @@ class ThreesModel:
             "n_components": range(2, 15),
             "covariance_type": ["spherical", "tied", "diag", "full"],
         }
-        grid_search = GridSearchCV(
-            GMM(), param_grid=param_grid, scoring=lambda estimator, x: -estimator.bic(x)
-        )
-
-        grid_search.fit(threes_train_xy)
+        try:
+            grid_search = GridSearchCV(
+                GMM(), param_grid=param_grid, error_score='raise', scoring=lambda estimator, x: -estimator.bic(x)
+            )
+            grid_search.fit(threes_train_xy)
+        except ValueError:
+            logging.error(f'Not enough samples to perform cross-validation for {player_name}. Skipping.')
+            return np.array([])
         
         covariance_type = grid_search.best_params_['covariance_type']
         n_components = grid_search.best_params_['n_components']
