@@ -1,15 +1,16 @@
+import logging
+
 import numpy as np
 import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
 from sklearn.mixture import GaussianMixture as GMM
 from sklearn.model_selection import GridSearchCV
-
 from tqdm import trange
 
-from model.nba_api_helpers import (get_league_shot_loc_data,
-                                   get_player_shot_loc_data,
-                                   generate_3_point_classifier)
+from model.nba_api_helpers import (generate_3_point_classifier,
+                                   get_league_shot_loc_data,
+                                   get_player_shot_loc_data)
 
 
 class ThreesModel:
@@ -44,10 +45,18 @@ class ThreesModel:
         :param plot: Whether to plot the results
         :return: numpy array of simulated shot results (1 = made, 0 = missed), length = n_simulated_games
         """
-
-        player_df = get_player_shot_loc_data(player_name, context_measure_simple='FG3A')
+        try:
+            player_df = get_player_shot_loc_data(player_name, context_measure_simple='FG3A')
+        except Exception:
+            logging.error(f'Error getting player data for {player_name}. Could not find player in NBA API.')
+            return np.array([])
+        
         threes = player_df.loc[:, ['GAME_ID', 'LOC_X', 'LOC_Y', 'SHOT_MADE_FLAG', 'SHOT_ATTEMPTED_FLAG']]
         threes = threes.dropna()
+
+        if len(threes) < 14:
+            logging.error(f'Error getting player data for {player_name}. Not enough data to run model.')
+            return np.array([])
 
         threes['SHOT_MADE_FLAG'] = threes['SHOT_MADE_FLAG'].astype(np.int64)
         
@@ -60,7 +69,7 @@ class ThreesModel:
         league_test_xy = league_df[['LOC_X', 'LOC_Y']].values.reshape(-1, 2)
 
         param_grid = {
-            "n_components": range(3, 15),
+            "n_components": range(2, 15),
             "covariance_type": ["spherical", "tied", "diag", "full"],
         }
         grid_search = GridSearchCV(
@@ -72,6 +81,7 @@ class ThreesModel:
         covariance_type = grid_search.best_params_['covariance_type']
         n_components = grid_search.best_params_['n_components']
         model = GMM(n_components=n_components, covariance_type=covariance_type, random_state=0).fit(threes_train_xy)
+        
         model_labels_ = model.predict(threes_train_xy)
 
         league_model_labels_ = model.predict(league_test_xy)
@@ -106,9 +116,6 @@ class ThreesModel:
         fga_per_game_est_mean = np.mean(fga_per_game_est)
         fga_per_game_est_std = np.std(fga_per_game_est)
 
-        #fit a classifier to league shot data to predict whether a shot is a 3 or not
-        clf = generate_3_point_classifier()
-
         fg3m_s = []
         #simulate n_simulations games
         for _ in trange(n_simulated_games, desc=f'Simulating 3PM outcomes for {player_name} vs {opponent}...'):
@@ -125,21 +132,19 @@ class ThreesModel:
             for _ in range(fga_i):
 
                 selected_cluster = np.random.choice(np.arange(0, n_components), p=model.weights_)
-                #this is technically more accurate, but slows down the sim significantly
-                if apply_3_point_classifier:
-                    three_point_shot = False
-                    while not three_point_shot:
-                        sampled_shot = np.random.multivariate_normal(
-                            model.means_[selected_cluster], model.covariances_[selected_cluster]
-                        )
-                        three_point_shot = bool(clf.predict([sampled_shot])[0])
 
-                    sampled_shot_locs = np.append(sampled_shot_locs, sampled_shot)
-                else:
-                    sampled_shot = np.random.multivariate_normal(
-                            model.means_[selected_cluster], model.covariances_[selected_cluster]
-                    )
-                    sampled_shot_locs = np.append(sampled_shot_locs, sampled_shot)
+                match covariance_type:
+                    case 'full':
+                        covariances_ = model.covariances_[selected_cluster].reshape(2, 2)
+                    case 'tied':
+                        covariances_ = model.covariances_.reshape(2, 2)
+                    case 'diag':
+                        covariances_ = np.diag(model.covariances_[selected_cluster])
+                    case 'spherical':
+                        covariances_ = np.eye(model.means_.shape[1]) * model.covariances_[selected_cluster]
+
+                sampled_shot = np.random.multivariate_normal(model.means_[selected_cluster], covariances_)
+                sampled_shot_locs = np.append(sampled_shot_locs, sampled_shot)    
 
             sampled_shot_locs = sampled_shot_locs.reshape(-1, 2)
 
