@@ -3,3 +3,5 @@
 [ERROR](2023-02-26 08:45:35,397): __init__:115 - Error getting player team id for Cam Johnson: player_id must be a string
 [ERROR](2023-02-26 08:47:08,484): __init__:115 - Error getting player team id for Anthony Davis Jr.: player_id must be a string
 [ERROR](2023-02-26 08:47:09,503): __init__:115 - Error getting player team id for Anthony Davis Jr.: player_id must be a string
+[ERROR](2023-02-26 08:49:24,245): __init__:115 - Error getting player team id for Mike Conley Jr.: player_id must be a string
+[ERROR](2023-02-26 08:49:25,263): __init__:115 - Error getting player team id for Mike Conley Jr.: player_id must be a string

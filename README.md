@@ -10,6 +10,8 @@ exports/
     player_props/
     sim_results/
 spreadsheets/
+logs/
+    model.log
 notebooks/
 model/
     models/
