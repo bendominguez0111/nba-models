@@ -61,8 +61,6 @@ class Model:
             self.save_data()
 
         # run models
-        # threes
-        threes_model = ThreesModel()
 
         self.odds_df['implied_odds'] = self.odds_df['price'].apply(calc_implied_probability)
 
@@ -77,14 +75,17 @@ class Model:
             player_name = row['player_name']
             defensive_matchup = row['defensive_matchup']
             points = row['points']
-
-            simulated_fgms = threes_model.run_model(
-                player_name, 
-                defensive_matchup, 
-                bootstrap_samples=bootstrap_samples, 
-                n_simulated_games=n_simulated_games, 
-                plot=False
-            )
+            try:
+                simulated_fgms = ThreesModel.run_model(
+                    player_name, 
+                    defensive_matchup, 
+                    bootstrap_samples=bootstrap_samples, 
+                    n_simulated_games=n_simulated_games, 
+                    plot=False
+                )
+            except Exception as e:
+                logging.error(f'Error simulating {player_name} against {defensive_matchup}: {e}')
+                continue
 
             if not simulated_fgms.sum():
                 continue
@@ -98,5 +99,6 @@ class Model:
         threes_props['edge'] = threes_props.apply(calc_edge_for_over_under, axis=1)
         threes_props['ev'] = threes_props.apply(calc_expected_value, axis=1)
         threes_props['suggested_kelly'] = threes_props.apply(calc_suggested_kelly, axis=1)
+        threes_props = threes_props.sort_values('ev', ascending=False)
 
         threes_props.to_csv(self.export_folder + f'/sim_results/{STR_TODAY}.csv', index=False)
