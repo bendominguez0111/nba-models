@@ -1,3 +1,13 @@
 [INFO](2023-02-26 09:04:00,914): __init__:27 - Loading odds data...
 [INFO](2023-02-26 09:04:00,914): __init__:38 - Preparing export folders...
 [INFO](2023-02-26 09:04:00,914): __init__:45 - Saving odds data to export folders...
+[ERROR](2023-02-26 09:04:12,207): threes:52 - Error getting player data for Anthony Davis Jr.. Could not find player in NBA API.
+[ERROR](2023-02-26 09:04:59,285): threes:52 - Error getting player data for Cam Johnson. Could not find player in NBA API.
+[ERROR](2023-02-26 09:07:09,100): threes:59 - Not enough samples (25) to run model for Deandre Ayton. Skipping.
+[ERROR](2023-02-26 09:08:13,271): threes:59 - Not enough samples (25) to run model for Dorian Finney-Smith. Skipping.
+[ERROR](2023-02-26 09:08:13,876): threes:59 - Not enough samples (25) to run model for Drew Eubanks. Skipping.
+[ERROR](2023-02-26 09:09:23,982): __init__:87 - Error simulating Jamal Murray against LAC: operands could not be broadcast together with shapes (5,) (6,) 
+[ERROR](2023-02-26 09:09:25,351): threes:59 - Not enough samples (25) to run model for Jarred Vanderbilt. Skipping.
+[ERROR](2023-02-26 09:13:23,232): threes:59 - Not enough samples (25) to run model for Mikal Bridges. Skipping.
+[ERROR](2023-02-26 09:13:24,832): threes:59 - Not enough samples (25) to run model for Mike Conley. Skipping.
+[ERROR](2023-02-26 09:13:24,832): threes:52 - Error getting player data for Mike Conley Jr.. Could not find player in NBA API.
