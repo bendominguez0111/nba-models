@@ -1,7 +1,7 @@
 import logging
 import sys
 
-from config import DEBUG, EXPORT_FOLDER, ODDS_API_KEY
+from config import DEBUG, EXPORT_FOLDER, ODDS_API_KEY, LOGS_FOLDER
 from model import Model
 import argparse
 
@@ -16,7 +16,8 @@ n_simulated_games = int(args.n_simulated_games)
 root = logging.getLogger()
 root.setLevel(logging.DEBUG if DEBUG else logging.INFO)
 
-handler = logging.StreamHandler(sys.stdout)
+handler = logging.handlers.TimedRotatingFileHandler(LOGS_FOLDER + '/model.log', when='midnight', backupCount=7)
+handler.suffix = "%Y%m%d"
 handler.setLevel(logging.DEBUG if DEBUG else logging.INFO)
 formatter = logging.Formatter('[%(levelname)s](%(asctime)s): %(module)s:%(lineno)d - %(message)s')
 handler.setFormatter(formatter)

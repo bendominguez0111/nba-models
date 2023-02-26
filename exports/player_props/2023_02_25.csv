@@ -1,0 +1,331 @@
+id,prop_type,player_name,player_team,defensive_matchup,sports_book,name,price,points,nba_api_player_id
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovic,DET,TOR,draftkings,Over,140,2.5,202711.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovic,DET,TOR,draftkings,Under,-175,2.5,202711.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,draftkings,Over,120,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,draftkings,Under,-150,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,draftkings,Over,120,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,draftkings,Under,-150,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,draftkings,Over,-120,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,draftkings,Under,-110,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,draftkings,Over,105,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,draftkings,Under,-135,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Pascal Siakam,TOR,DET,draftkings,Over,-130,1.5,1627783.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Pascal Siakam,TOR,DET,draftkings,Under,100,1.5,1627783.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,draftkings,Over,175,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,draftkings,Under,-215,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,fanduel,Over,104,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,fanduel,Under,-132,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,fanduel,Over,118,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,fanduel,Under,-150,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,fanduel,Over,164,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,fanduel,Under,-215,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,fanduel,Over,120,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,fanduel,Under,-154,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,fanduel,Over,-118,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,fanduel,Under,-108,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovic,DET,TOR,fanduel,Over,132,2.5,202711.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovic,DET,TOR,fanduel,Under,-170,2.5,202711.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Pascal Siakam,TOR,DET,fanduel,Over,-130,1.5,1627783.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Pascal Siakam,TOR,DET,fanduel,Under,102,1.5,1627783.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Pascal Siakam,TOR,DET,williamhill_us,Over,-137,1.5,1627783.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Pascal Siakam,TOR,DET,williamhill_us,Under,100,1.5,1627783.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovic,DET,TOR,williamhill_us,Over,129,2.5,202711.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovic,DET,TOR,williamhill_us,Under,-179,2.5,202711.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,williamhill_us,Over,165,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,williamhill_us,Under,-234,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,williamhill_us,Over,-125,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,williamhill_us,Under,-109,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,williamhill_us,Over,102,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,williamhill_us,Under,-139,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,williamhill_us,Over,123,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,williamhill_us,Under,-169,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,williamhill_us,Over,114,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,williamhill_us,Under,-157,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovic,DET,TOR,betonlineag,Over,136,2.5,202711.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovic,DET,TOR,betonlineag,Under,-179,2.5,202711.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,betonlineag,Over,118,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,betonlineag,Under,-154,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,betonlineag,Over,-112,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,betonlineag,Under,-115,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,betonlineag,Over,104,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,betonlineag,Under,-135,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Pascal Siakam,TOR,DET,betonlineag,Over,-123,1.5,1627783.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Pascal Siakam,TOR,DET,betonlineag,Under,-104,1.5,1627783.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,betonlineag,Over,164,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,betonlineag,Under,-217,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,betonlineag,Over,117,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,betonlineag,Under,-152,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovich,,,betmgm,Over,135,2.5,
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Bojan Bogdanovich,,,betmgm,Under,-185,2.5,
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,betmgm,Over,-120,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Jaden Ivey,DET,TOR,betmgm,Under,-110,1.5,1631093.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,betmgm,Over,100,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Killian Hayes,DET,TOR,betmgm,Under,-135,1.5,1630165.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,betmgm,Over,115,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Isaiah Stewart,DET,TOR,betmgm,Under,-155,1.5,1630191.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,betmgm,Over,120,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Gary Trent Jr.,TOR,DET,betmgm,Under,-155,3.5,1629018.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,betmgm,Over,165,1.5,1630567.0
+ef1a42559218a4a2615ace19bd9ca29c,player_threes,Scottie Barnes,TOR,DET,betmgm,Under,-225,1.5,1630567.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,Gordon Hayward,CHA,MIA,fanduel,Over,-225,0.5,202330.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,Gordon Hayward,CHA,MIA,fanduel,Under,172,0.5,202330.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,Terry Rozier,CHA,MIA,fanduel,Over,-118,2.5,1626179.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,Terry Rozier,CHA,MIA,fanduel,Under,-108,2.5,1626179.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,LaMelo Ball,CHA,MIA,fanduel,Over,108,3.5,1630163.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,LaMelo Ball,CHA,MIA,fanduel,Under,-138,3.5,1630163.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,Gordon Hayward,CHA,MIA,betonlineag,Over,-233,0.5,202330.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,Gordon Hayward,CHA,MIA,betonlineag,Under,174,0.5,202330.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,Terry Rozier,CHA,MIA,betonlineag,Over,-119,2.5,1626179.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,Terry Rozier,CHA,MIA,betonlineag,Under,-109,2.5,1626179.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,LaMelo Ball,CHA,MIA,betonlineag,Over,106,3.5,1630163.0
+314cdd9cecb9b66219c944996f0249b2,player_threes,LaMelo Ball,CHA,MIA,betonlineag,Under,-137,3.5,1630163.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,draftkings,Over,-105,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,draftkings,Under,-125,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,draftkings,Over,-130,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,draftkings,Under,100,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Franz Wagner,ORL,IND,draftkings,Over,-120,1.5,1630532.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Franz Wagner,ORL,IND,draftkings,Under,-110,1.5,1630532.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,draftkings,Over,-145,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,draftkings,Under,115,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Markelle Fultz,ORL,IND,draftkings,Over,125,0.5,1628365.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Markelle Fultz,ORL,IND,draftkings,Under,-155,0.5,1628365.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Myles Turner,IND,ORL,draftkings,Over,-120,1.5,1626167.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Myles Turner,IND,ORL,draftkings,Under,-110,1.5,1626167.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Paolo Banchero,ORL,IND,draftkings,Over,-230,0.5,1631094.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Paolo Banchero,ORL,IND,draftkings,Under,185,0.5,1631094.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,draftkings,Over,-110,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,draftkings,Under,-120,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter Jr.,ORL,IND,draftkings,Over,125,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter Jr.,ORL,IND,draftkings,Under,-155,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,williamhill_us,Over,-135,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,williamhill_us,Under,-101,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,williamhill_us,Over,-113,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,williamhill_us,Under,-121,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Paolo Banchero,ORL,IND,williamhill_us,Over,-199,0.5,1631094.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Paolo Banchero,ORL,IND,williamhill_us,Under,143,0.5,1631094.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Markelle Fultz,ORL,IND,williamhill_us,Over,118,0.5,1628365.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Markelle Fultz,ORL,IND,williamhill_us,Under,-163,0.5,1628365.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter Jr.,ORL,IND,williamhill_us,Over,126,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter Jr.,ORL,IND,williamhill_us,Under,-174,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,williamhill_us,Over,-160,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,williamhill_us,Under,116,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Franz Wagner,ORL,IND,williamhill_us,Over,-123,1.5,1630532.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Franz Wagner,ORL,IND,williamhill_us,Under,-111,1.5,1630532.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,williamhill_us,Over,-115,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,williamhill_us,Under,-119,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Myles Turner,IND,ORL,williamhill_us,Over,-123,1.5,1626167.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Myles Turner,IND,ORL,williamhill_us,Under,-111,1.5,1626167.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,betonlineag,Over,-103,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,betonlineag,Under,-125,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,betonlineag,Over,-139,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,betonlineag,Under,107,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Franz Wagner,ORL,IND,betonlineag,Over,-118,1.5,1630532.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Franz Wagner,ORL,IND,betonlineag,Under,-110,1.5,1630532.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,betonlineag,Over,-152,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,betonlineag,Under,117,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Markelle Fultz,ORL,IND,betonlineag,Over,122,0.5,1628365.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Markelle Fultz,ORL,IND,betonlineag,Under,-159,0.5,1628365.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Myles Turner,IND,ORL,betonlineag,Over,-123,1.5,1626167.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Myles Turner,IND,ORL,betonlineag,Under,-104,1.5,1626167.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,betonlineag,Over,-109,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,betonlineag,Under,-119,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter Jr.,ORL,IND,betonlineag,Over,128,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter Jr.,ORL,IND,betonlineag,Under,-167,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Paolo Banchero,ORL,IND,betonlineag,Over,-250,0.5,1631094.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Paolo Banchero,ORL,IND,betonlineag,Under,185,0.5,1631094.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter,ORL,IND,fanduel,Over,130,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter,ORL,IND,fanduel,Under,-166,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,fanduel,Over,-106,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,fanduel,Under,-120,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Myles Turner,IND,ORL,fanduel,Over,-128,1.5,1626167.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Myles Turner,IND,ORL,fanduel,Under,100,1.5,1626167.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,fanduel,Over,-154,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,fanduel,Under,120,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Franz Wagner,ORL,IND,fanduel,Over,-118,1.5,1630532.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Franz Wagner,ORL,IND,fanduel,Under,-108,1.5,1630532.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Paolo Banchero,ORL,IND,fanduel,Over,200,1.5,1631094.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Paolo Banchero,ORL,IND,fanduel,Under,-265,1.5,1631094.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,fanduel,Over,-104,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,fanduel,Under,-122,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,fanduel,Over,-142,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,fanduel,Under,112,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,betmgm,Over,-110,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Tyrese Haliburton,IND,ORL,betmgm,Under,-120,2.5,1630169.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,betmgm,Over,-150,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Gary Harris,ORL,IND,betmgm,Under,115,1.5,203914.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,betmgm,Over,-105,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Aaron Nesmith,IND,ORL,betmgm,Under,-125,1.5,1630174.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter Jr.,ORL,IND,betmgm,Over,125,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Wendell Carter Jr.,ORL,IND,betmgm,Under,-165,1.5,1628976.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,betmgm,Over,-135,3.5,1627741.0
+ab26545fc28c693c52329db2a68a06a9,player_threes,Buddy Hield,IND,ORL,betmgm,Under,100,3.5,1627741.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Jalen Brunson,NYK,NOP,betonlineag,Over,155,2.5,1628973.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Jalen Brunson,NYK,NOP,betonlineag,Under,-204,2.5,1628973.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Julius Randle,NYK,NOP,betonlineag,Over,-139,2.5,203944.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Julius Randle,NYK,NOP,betonlineag,Under,107,2.5,203944.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Brandon Ingram,NOP,NYK,betonlineag,Over,109,1.5,1627742.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Brandon Ingram,NOP,NYK,betonlineag,Under,-141,1.5,1627742.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,CJ McCollum,NOP,NYK,betonlineag,Over,-114,2.5,203468.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,CJ McCollum,NOP,NYK,betonlineag,Under,-114,2.5,203468.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,RJ Barrett Jr.,,,betonlineag,Over,-123,1.5,
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,RJ Barrett Jr.,,,betonlineag,Under,-104,1.5,
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,CJ McCollum,NOP,NYK,fanduel,Over,-113,2.5,203468.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,CJ McCollum,NOP,NYK,fanduel,Under,-113,2.5,203468.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,RJ Barrett,NYK,NOP,fanduel,Over,-130,1.5,1629628.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,RJ Barrett,NYK,NOP,fanduel,Under,102,1.5,1629628.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Julius Randle,NYK,NOP,fanduel,Over,-146,2.5,203944.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Julius Randle,NYK,NOP,fanduel,Under,114,2.5,203944.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Brandon Ingram,NOP,NYK,fanduel,Over,108,1.5,1627742.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Brandon Ingram,NOP,NYK,fanduel,Under,-138,1.5,1627742.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Jalen Brunson,NYK,NOP,fanduel,Over,158,2.5,1628973.0
+818b7fece8a6f82cecf0b4ef38f903d3,player_threes,Jalen Brunson,NYK,NOP,fanduel,Under,-205,2.5,1628973.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Desmond Bane,MEM,DEN,draftkings,Over,-135,2.5,1630217.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Desmond Bane,MEM,DEN,draftkings,Under,105,2.5,1630217.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Dillon Brooks,MEM,DEN,draftkings,Over,115,1.5,1628415.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Dillon Brooks,MEM,DEN,draftkings,Under,-145,1.5,1628415.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Ja Morant,MEM,DEN,draftkings,Over,105,1.5,1629630.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Ja Morant,MEM,DEN,draftkings,Under,-135,1.5,1629630.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jamal Murray,DEN,MEM,draftkings,Over,-135,2.5,1627750.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jamal Murray,DEN,MEM,draftkings,Under,105,2.5,1627750.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jaren Jackson Jr.,MEM,DEN,draftkings,Over,100,1.5,1628991.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jaren Jackson Jr.,MEM,DEN,draftkings,Under,-130,1.5,1628991.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Kentavious Caldwell-Pope,DEN,MEM,draftkings,Over,-120,1.5,203484.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Kentavious Caldwell-Pope,DEN,MEM,draftkings,Under,-110,1.5,203484.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Michael Porter Jr.,DEN,MEM,draftkings,Over,-165,2.5,1629008.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Michael Porter Jr.,DEN,MEM,draftkings,Under,135,2.5,1629008.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Nikola Jokic,DEN,MEM,draftkings,Over,-130,0.5,203999.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Nikola Jokic,DEN,MEM,draftkings,Under,100,0.5,203999.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Desmond Bane,MEM,DEN,betonlineag,Over,-130,2.5,1630217.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Desmond Bane,MEM,DEN,betonlineag,Under,101,2.5,1630217.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Dillon Brooks,MEM,DEN,betonlineag,Over,107,1.5,1628415.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Dillon Brooks,MEM,DEN,betonlineag,Under,-139,1.5,1628415.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Ja Morant,MEM,DEN,betonlineag,Over,102,1.5,1629630.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Ja Morant,MEM,DEN,betonlineag,Under,-132,1.5,1629630.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jamal Murray,DEN,MEM,betonlineag,Over,-137,2.5,1627750.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jamal Murray,DEN,MEM,betonlineag,Under,106,2.5,1627750.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Kentavious Caldwell-Pope,DEN,MEM,betonlineag,Over,-122,1.5,203484.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Kentavious Caldwell-Pope,DEN,MEM,betonlineag,Under,-106,1.5,203484.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Nikola Jokic,DEN,MEM,betonlineag,Over,-127,0.5,203999.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Nikola Jokic,DEN,MEM,betonlineag,Under,-102,0.5,203999.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jaren Jackson Jr.,MEM,DEN,betonlineag,Over,102,1.5,1628991.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jaren Jackson Jr.,MEM,DEN,betonlineag,Under,-132,1.5,1628991.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Michael Porter Jr.,DEN,MEM,betonlineag,Over,-175,2.5,1629008.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Michael Porter Jr.,DEN,MEM,betonlineag,Under,134,2.5,1629008.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jamal Murray,DEN,MEM,williamhill_us,Over,-137,2.5,1627750.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jamal Murray,DEN,MEM,williamhill_us,Under,100,2.5,1627750.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Desmond Bane,MEM,DEN,williamhill_us,Over,-131,2.5,1630217.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Desmond Bane,MEM,DEN,williamhill_us,Under,-104,2.5,1630217.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Dillon Brooks,MEM,DEN,williamhill_us,Over,116,1.5,1628415.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Dillon Brooks,MEM,DEN,williamhill_us,Under,-160,1.5,1628415.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Ja Morant,MEM,DEN,williamhill_us,Over,104,1.5,1629630.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Ja Morant,MEM,DEN,williamhill_us,Under,-142,1.5,1629630.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Michael Porter Jr.,DEN,MEM,williamhill_us,Over,-169,2.5,1629008.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Michael Porter Jr.,DEN,MEM,williamhill_us,Under,123,2.5,1629008.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Kentavious Caldwell-Pope,DEN,MEM,williamhill_us,Over,-119,1.5,203484.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Kentavious Caldwell-Pope,DEN,MEM,williamhill_us,Under,-115,1.5,203484.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Nikola Jokic,DEN,MEM,williamhill_us,Over,-131,0.5,203999.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Nikola Jokic,DEN,MEM,williamhill_us,Under,-104,0.5,203999.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jaren Jackson Jr.,MEM,DEN,williamhill_us,Over,-104,1.5,1628991.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jaren Jackson Jr.,MEM,DEN,williamhill_us,Under,-131,1.5,1628991.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Kentavious Caldwell-Pope,DEN,MEM,fanduel,Over,-130,1.5,203484.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Kentavious Caldwell-Pope,DEN,MEM,fanduel,Under,102,1.5,203484.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Ja Morant,MEM,DEN,fanduel,Over,100,1.5,1629630.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Ja Morant,MEM,DEN,fanduel,Under,-128,1.5,1629630.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Dillon Brooks,MEM,DEN,fanduel,Over,104,1.5,1628415.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Dillon Brooks,MEM,DEN,fanduel,Under,-132,1.5,1628415.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jamal Murray,DEN,MEM,fanduel,Over,-138,2.5,1627750.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jamal Murray,DEN,MEM,fanduel,Under,108,2.5,1627750.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jaren Jackson Jr.,MEM,DEN,fanduel,Over,106,1.5,1628991.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Jaren Jackson Jr.,MEM,DEN,fanduel,Under,-136,1.5,1628991.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Desmond Bane,MEM,DEN,fanduel,Over,-132,2.5,1630217.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Desmond Bane,MEM,DEN,fanduel,Under,104,2.5,1630217.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Nikola Jokic,DEN,MEM,fanduel,Over,-130,0.5,203999.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Nikola Jokic,DEN,MEM,fanduel,Under,102,0.5,203999.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Michael Porter Jr.,DEN,MEM,fanduel,Over,-172,2.5,1629008.0
+9427475e5b454a44a4d9cc365d72e416,player_threes,Michael Porter Jr.,DEN,MEM,fanduel,Under,134,2.5,1629008.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,draftkings,Over,-120,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,draftkings,Under,-110,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,draftkings,Over,-135,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,draftkings,Under,105,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jaylen Brown,BOS,PHI,draftkings,Over,-110,2.5,1627759.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jaylen Brown,BOS,PHI,draftkings,Under,-120,2.5,1627759.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jayson Tatum,BOS,PHI,draftkings,Over,-165,2.5,1628369.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jayson Tatum,BOS,PHI,draftkings,Under,135,2.5,1628369.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Joel Embiid,PHI,BOS,draftkings,Over,-180,0.5,203954.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Joel Embiid,PHI,BOS,draftkings,Under,145,0.5,203954.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Marcus Smart,BOS,PHI,draftkings,Over,-105,1.5,203935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Marcus Smart,BOS,PHI,draftkings,Under,-125,1.5,203935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,P.J. Tucker,PHI,BOS,draftkings,Over,-120,0.5,200782.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,P.J. Tucker,PHI,BOS,draftkings,Under,-110,0.5,200782.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Tobias Harris,PHI,BOS,draftkings,Over,-110,1.5,202699.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Tobias Harris,PHI,BOS,draftkings,Under,-120,1.5,202699.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,betonlineag,Over,-115,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,betonlineag,Under,-112,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,betonlineag,Over,-139,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,betonlineag,Under,107,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jaylen Brown,BOS,PHI,betonlineag,Over,-111,2.5,1627759.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jaylen Brown,BOS,PHI,betonlineag,Under,-116,2.5,1627759.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Joel Embiid,PHI,BOS,betonlineag,Over,-192,0.5,203954.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Joel Embiid,PHI,BOS,betonlineag,Under,145,0.5,203954.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Marcus Smart,BOS,PHI,betonlineag,Over,-102,1.5,203935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Marcus Smart,BOS,PHI,betonlineag,Under,-127,1.5,203935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Tobias Harris,PHI,BOS,betonlineag,Over,-109,1.5,202699.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Tobias Harris,PHI,BOS,betonlineag,Under,-119,1.5,202699.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,P.J. Tucker,PHI,BOS,betonlineag,Over,-116,0.5,200782.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,P.J. Tucker,PHI,BOS,betonlineag,Under,-111,0.5,200782.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jayson Tatum,BOS,PHI,betonlineag,Over,-175,2.5,1628369.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jayson Tatum,BOS,PHI,betonlineag,Under,135,2.5,1628369.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Tobias Harris,PHI,BOS,williamhill_us,Over,-113,1.5,202699.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Tobias Harris,PHI,BOS,williamhill_us,Under,-121,1.5,202699.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Marcus Smart,BOS,PHI,williamhill_us,Over,-106,1.5,203935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Marcus Smart,BOS,PHI,williamhill_us,Under,-129,1.5,203935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,P.J. Tucker,PHI,BOS,williamhill_us,Over,-121,0.5,200782.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,P.J. Tucker,PHI,BOS,williamhill_us,Under,-113,0.5,200782.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jayson Tatum,BOS,PHI,williamhill_us,Over,-179,2.5,1628369.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jayson Tatum,BOS,PHI,williamhill_us,Under,129,2.5,1628369.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jaylen Brown,BOS,PHI,williamhill_us,Over,-109,2.5,1627759.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jaylen Brown,BOS,PHI,williamhill_us,Under,-125,2.5,1627759.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,williamhill_us,Over,-145,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,williamhill_us,Under,106,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,williamhill_us,Over,-115,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,williamhill_us,Under,-119,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Joel Embiid,PHI,BOS,williamhill_us,Over,-189,0.5,203954.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Joel Embiid,PHI,BOS,williamhill_us,Under,136,0.5,203954.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jayson Tatum,BOS,PHI,fanduel,Over,130,3.5,1628369.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jayson Tatum,BOS,PHI,fanduel,Under,-166,3.5,1628369.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jaylen Brown,BOS,PHI,fanduel,Over,-115,2.5,1627759.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Jaylen Brown,BOS,PHI,fanduel,Under,-111,2.5,1627759.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Tobias Harris,PHI,BOS,fanduel,Over,-104,1.5,202699.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Tobias Harris,PHI,BOS,fanduel,Under,-122,1.5,202699.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,fanduel,Over,-140,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,fanduel,Under,110,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Marcus Smart,BOS,PHI,fanduel,Over,-104,1.5,203935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Marcus Smart,BOS,PHI,fanduel,Under,-122,1.5,203935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,fanduel,Over,-113,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,fanduel,Under,-113,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,PJ Tucker,,,betmgm,Over,-120,0.5,
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,PJ Tucker,,,betmgm,Under,-110,0.5,
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,betmgm,Over,-120,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,Al Horford,BOS,PHI,betmgm,Under,-110,1.5,201143.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,betmgm,Over,-140,2.5,201935.0
+3ee7569ac3f38bd5d62ca03b13ee1344,player_threes,James Harden,PHI,BOS,betmgm,Under,105,2.5,201935.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Jordan Clarkson,UTA,SAS,draftkings,Over,-150,2.5,203903.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Jordan Clarkson,UTA,SAS,draftkings,Under,120,2.5,203903.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Lauri Markkanen,UTA,SAS,draftkings,Over,135,3.5,1628374.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Lauri Markkanen,UTA,SAS,draftkings,Under,-165,3.5,1628374.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Jordan Clarkson,UTA,SAS,betonlineag,Over,-156,2.5,203903.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Jordan Clarkson,UTA,SAS,betonlineag,Under,121,2.5,203903.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Lauri Markkanen,UTA,SAS,betonlineag,Over,130,3.5,1628374.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Lauri Markkanen,UTA,SAS,betonlineag,Under,-169,3.5,1628374.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Keldon Johnson,SAS,UTA,betonlineag,Over,-119,1.5,1629640.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Keldon Johnson,SAS,UTA,betonlineag,Under,-109,1.5,1629640.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Lauri Markkanen,UTA,SAS,williamhill_us,Over,126,3.5,1628374.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Lauri Markkanen,UTA,SAS,williamhill_us,Under,-174,3.5,1628374.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Jordan Clarkson,UTA,SAS,williamhill_us,Over,-151,2.5,203903.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Jordan Clarkson,UTA,SAS,williamhill_us,Under,110,2.5,203903.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Keldon Johnson,SAS,UTA,fanduel,Over,-118,1.5,1629640.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Keldon Johnson,SAS,UTA,fanduel,Under,-108,1.5,1629640.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Lauri Markkanen,UTA,SAS,fanduel,Over,126,3.5,1628374.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Lauri Markkanen,UTA,SAS,fanduel,Under,-162,3.5,1628374.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Jordan Clarkson,UTA,SAS,fanduel,Over,-164,2.5,203903.0
+35c8c545c966fd2ad738dcccd02a6d8f,player_threes,Jordan Clarkson,UTA,SAS,fanduel,Under,128,2.5,203903.0

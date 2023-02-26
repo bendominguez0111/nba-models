@@ -32,7 +32,7 @@ class ThreesModel:
             plot_args:dict={
                 'seaborn_style': 'darkgrid',
                 'seaborn_context': 'poster',
-                'figsize': (12, 12)
+                'figsize': (10, 6)
             }
         ) -> np.array:
 

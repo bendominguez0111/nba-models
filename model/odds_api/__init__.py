@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import requests
 from nba_api.stats.static import teams
+from tqdm import tqdm
 
 from model.nba_api_helpers import get_player_id, get_player_team_id
 from model.odds_api.config import OddsAPIEndpoints, OddsAPISettings
@@ -72,7 +73,7 @@ class OddsAPI:
             'nba_api_player_id': []
         }
 
-        for event in events:
+        for event in tqdm(events):
             for market in markets:
                 res = requests.get(
                     OddsAPIEndpoints.EVENT_ODDS_ENDPOINT.format(

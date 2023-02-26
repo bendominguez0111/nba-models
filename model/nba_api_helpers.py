@@ -35,7 +35,6 @@ def get_player_team_id(player_id:str, res_wait: int = 0, timeout: int = 30) -> s
     :return: The team id
     """
     if res_wait > 0:
-        logging.info(f'Waiting {res_wait} seconds before making request')
         time.sleep(res_wait)
     if not type(player_id) == str:
         raise TypeError('player_id must be a string')

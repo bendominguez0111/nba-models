@@ -93,6 +93,7 @@ class Model:
             threes_over_unders.loc[idx, 'p(under)'] = sum(simulated_fgms < points) / len(simulated_fgms)
         
         threes_props = threes_props.merge(threes_over_unders, on=['player_name', 'defensive_matchup', 'points'], how='left')
+        threes_props = threes_props.dropna() # drop players we didn't simulate
             
         threes_props['edge'] = threes_props.apply(calc_edge_for_over_under, axis=1)
         threes_props['ev'] = threes_props.apply(calc_expected_value, axis=1)
