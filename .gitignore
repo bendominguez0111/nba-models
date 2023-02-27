@@ -3,3 +3,6 @@ venv
 __pycache__
 .vscode
 .ipynb_checkpoints
+_visualize_sims.py
+_visualize_distribution.py
+sampled_sims

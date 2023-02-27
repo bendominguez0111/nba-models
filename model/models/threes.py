@@ -8,8 +8,7 @@ from sklearn.mixture import GaussianMixture as GMM
 from sklearn.model_selection import GridSearchCV
 from tqdm import trange
 
-from model.nba_api_helpers import (generate_3_point_classifier,
-                                   get_league_shot_loc_data,
+from model.nba_api_helpers import (get_league_shot_loc_data,
                                    get_player_shot_loc_data)
 
 
@@ -27,7 +26,6 @@ class ThreesModel:
             bootstrap_samples:int=100_000,
             n_simulated_games:int=200_000,
             min_samples:int=25,
-            apply_3_point_classifier:bool=False,
             plot:bool=False,
             plot_args:dict={
                 'seaborn_style': 'darkgrid',
