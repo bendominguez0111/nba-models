@@ -6,4 +6,5 @@ __pycache__
 _visualize_sims.py
 _visualize_distribution.py
 _test_model.py
-sampled_sims
+png/sampled_sims
+png/distributions
