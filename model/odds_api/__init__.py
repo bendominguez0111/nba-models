@@ -73,7 +73,7 @@ class OddsAPI:
             'nba_api_player_id': []
         }
 
-        for event in tqdm(events):
+        for event in tqdm(events, desc=f'Grabbing player props from {len(events)} NBA games today...'):
             for market in markets:
                 res = requests.get(
                     OddsAPIEndpoints.EVENT_ODDS_ENDPOINT.format(
