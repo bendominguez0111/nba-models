@@ -52,7 +52,9 @@ class Model:
     def run_model(
             self, 
             bootstrap_samples:int=100_000,
-            n_simulated_games:int=200_000
+            n_simulated_games:int=200_000,
+            fga_method:str="simple",
+
         ):
 
         self.load_data()
@@ -81,6 +83,7 @@ class Model:
                     defensive_matchup, 
                     bootstrap_samples=bootstrap_samples, 
                     n_simulated_games=n_simulated_games, 
+                    fga_method="simple",
                     plot=False
                 )
             except Exception as e:

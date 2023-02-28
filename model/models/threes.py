@@ -25,6 +25,7 @@ class ThreesModel:
             n_components:int=5, 
             bootstrap_samples:int=100_000,
             n_simulated_games:int=200_000,
+            fga_method:str="simple",
             min_samples:int=25,
             plot:bool=False,
             plot_args:dict={
@@ -41,9 +42,15 @@ class ThreesModel:
         :param n_components: The number of clusters to use for the GMM
         :param bootstrap_samples: The number of bootstrap samples to use (suggested 100,000 - 500,000)
         :param n_simulated_games: The number of simulated games to run (suggested 10,000 - 200,000)
+        :param fga_method: The method to simulate field goals attempted ('simple' moving average or 'ewm')
         :param plot: Whether to plot the results
         :return: numpy array of simulated shot results (1 = made, 0 = missed), length = n_simulated_games
         """
+        
+        fga_attempt_types = ['simple', 'ewm']
+        if fga_method not in fga_attempt_types:
+            raise ValueError("Invalid fga_attempt_type. Expected one of: %s" % fga_attempt_types)
+        
         try:
             player_df = get_player_shot_loc_data(player_name, context_measure_simple='FG3A')
         except Exception:
@@ -60,7 +67,9 @@ class ThreesModel:
         threes['SHOT_MADE_FLAG'] = threes['SHOT_MADE_FLAG'].astype(np.int64)
         
         threes_train_xy = threes[['LOC_X', 'LOC_Y']].values.reshape(-1, 2)
-        fga_per_game_data = threes.groupby('GAME_ID')['SHOT_ATTEMPTED_FLAG'].count().values
+#        fga_per_game_data = threes.groupby('GAME_ID')['SHOT_ATTEMPTED_FLAG'].count().values
+        fga_per_game_data = threes.groupby('GAME_ID')['SHOT_ATTEMPTED_FLAG'].count().reset_index().sort_values('GAME_ID')
+        
 
         #get league shot data
         
@@ -114,16 +123,21 @@ class ThreesModel:
         def_adjustment = opponent_fg_percent_by_cluster / league_fg_percent_by_cluster
 
         #bootstrap resample from FGA data to find normal distribution fo estimated mean FGA per game
-        fga_per_game_est = [np.random.choice(fga_per_game_data, size=len(fga_per_game_data), replace=True).mean() for _ in range(bootstrap_samples)]
-        fga_per_game_est_mean = np.mean(fga_per_game_est)
-        fga_per_game_est_std = np.std(fga_per_game_est)
+        if fga_method == 'simple':
+            fga_per_game_array = fga_per_game_data['SHOT_ATTEMPTED_FLAG'].values
+            fga_per_game_est = [np.random.choice(fga_per_game_array, size=len(fga_per_game_array), replace=True).mean() for _ in range(bootstrap_samples)]
+            fga_per_game_est_mean = np.mean(fga_per_game_est)
+            fga_per_game_est_std = np.std(fga_per_game_est)
+        elif fga_method == 'ewm':
+            fga_per_game_est_mean = fga_per_game_data['SHOT_ATTEMPTED_FLAG'].ewm(span = len(fga_per_game_data)).mean().values[-1]
+            fga_per_game_est_std = fga_per_game_data['SHOT_ATTEMPTED_FLAG'].ewm(span = len(fga_per_game_data)).std().values[-1]
 
         fg3m_s = []
         #simulate n_simulations games
         for _ in trange(n_simulated_games, desc=f'Simulating 3PM outcomes for {player_name} vs {opponent}...'):
 
             #simulate FGA
-            fga_i = np.random.poisson(np.random.normal(fga_per_game_est_mean, fga_per_game_est_std))
+            fga_i = np.random.poisson(max(np.random.normal(fga_per_game_est_mean, fga_per_game_est_std),0))
 
             if fga_i == 0:
                 fg3m_s.append(0)
