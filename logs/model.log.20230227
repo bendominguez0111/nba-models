@@ -1,0 +1,24 @@
+[INFO](2023-02-27 08:41:51,181): __init__:27 - Loading odds data...
+[ERROR](2023-02-27 08:43:00,049): __init__:115 - Error getting player team id for Jimmy Butler III: player_id must be a string
+[ERROR](2023-02-27 08:43:01,058): __init__:115 - Error getting player team id for Jimmy Butler III: player_id must be a string
+[INFO](2023-02-27 08:44:43,274): __init__:27 - Loading odds data...
+[ERROR](2023-02-27 08:45:34,334): __init__:115 - Error getting player team id for Jimmy Butler III: player_id must be a string
+[ERROR](2023-02-27 08:45:35,348): __init__:115 - Error getting player team id for Jimmy Butler III: player_id must be a string
+[ERROR](2023-02-27 08:45:51,940): __init__:115 - Error getting player team id for Jimmy Butler III: player_id must be a string
+[ERROR](2023-02-27 08:45:52,941): __init__:115 - Error getting player team id for Jimmy Butler III: player_id must be a string
+[ERROR](2023-02-27 08:46:53,890): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-02-27 08:46:54,900): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-02-27 08:46:55,912): __init__:115 - Error getting player team id for Alfred Joel Horford Reynoso: player_id must be a string
+[ERROR](2023-02-27 08:46:56,929): __init__:115 - Error getting player team id for Alfred Joel Horford Reynoso: player_id must be a string
+[ERROR](2023-02-27 08:47:09,367): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-02-27 08:47:10,384): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-02-27 08:48:19,566): __init__:115 - Error getting player team id for Christian James McCollum: player_id must be a string
+[ERROR](2023-02-27 08:48:20,580): __init__:115 - Error getting player team id for Christian James McCollum: player_id must be a string
+[INFO](2023-02-27 08:49:08,723): __init__:38 - Preparing export folders...
+[INFO](2023-02-27 08:49:08,723): __init__:45 - Saving odds data to export folders...
+[ERROR](2023-02-27 08:49:23,852): threes:50 - Error getting player data for Alfred Joel Horford Reynoso. Could not find player in NBA API.
+[ERROR](2023-02-27 08:49:56,577): threes:50 - Error getting player data for Christian James McCollum. Could not find player in NBA API.
+[ERROR](2023-02-27 08:51:59,361): threes:50 - Error getting player data for Jimmy Butler III. Could not find player in NBA API.
+[ERROR](2023-02-27 08:54:29,316): threes:50 - Error getting player data for RJ Barrett Jr.. Could not find player in NBA API.
+[ERROR](2023-02-27 08:55:32,458): __init__:87 - Error simulating Wendell Carter against NOP: operands could not be broadcast together with shapes (4,) (7,) 
+[ERROR](2023-02-27 08:55:41,228): __init__:87 - Error simulating Wendell Carter Jr. against NOP: operands could not be broadcast together with shapes (4,) (7,) 

@@ -71,7 +71,7 @@ def get_player_shot_loc_data(player_name: str, team_id: str = None, context_meas
 
     return df
 
-def get_league_shot_loc_data(season:str='2022', context_measure_simple: str = 'FGA') -> pd.DataFrame:
+def get_league_shot_loc_data(context_measure_simple: str = 'FGA') -> pd.DataFrame:
     """
     Get league shot data
     :param season: The season to get the shot data for
@@ -120,7 +120,7 @@ def get_league_shot_loc_data(season:str='2022', context_measure_simple: str = 'F
 
     league_df['DEF'] = league_df.apply(find_defense, axis=1)
 
-    return league_df[['DEF', 'LOC_X', 'LOC_Y', 'SHOT_MADE_FLAG']]
+    return league_df[['DEF', 'GAME_ID', 'LOC_X', 'LOC_Y', 'SHOT_MADE_FLAG']]
 
 def generate_3_point_classifier():
 

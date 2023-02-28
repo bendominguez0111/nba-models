@@ -65,6 +65,11 @@ class ThreesModel:
         #get league shot data
         
         league_df = get_league_shot_loc_data(context_measure_simple='FG3A')
+        fga_allowed_by_def = league_df.groupby('DEF')['SHOT_MADE_FLAG'].count()
+        avg_league_fga_allowed = fga_allowed_by_def.mean()
+        fga_adjustment_for_league = fga_allowed_by_def / avg_league_fga_allowed
+        fga_adjustment_for_def = fga_adjustment_for_league[opponent]
+
         league_test_xy = league_df[['LOC_X', 'LOC_Y']].values.reshape(-1, 2)
 
         param_grid = {
@@ -111,7 +116,7 @@ class ThreesModel:
         opponent_fg_percent_by_cluster = opponent_fg_percent_by_cluster.loc[opponent_fg_percent_by_cluster['SHOT_MADE_FLAG'] == 1].drop('SHOT_MADE_FLAG', axis=1)['fg_percent']
         
         #opponent defensive ratings per cluster relative to league average
-        def_adjustment = opponent_fg_percent_by_cluster / league_fg_percent_by_cluster
+        def_fg_adjustment = opponent_fg_percent_by_cluster / league_fg_percent_by_cluster
 
         #bootstrap resample from FGA data to find normal distribution fo estimated mean FGA per game
         fga_per_game_est = [np.random.choice(fga_per_game_data, size=len(fga_per_game_data), replace=True).mean() for _ in range(bootstrap_samples)]
@@ -123,7 +128,7 @@ class ThreesModel:
         for _ in trange(n_simulated_games, desc=f'Simulating 3PM outcomes for {player_name} vs {opponent}...'):
 
             #simulate FGA
-            fga_i = np.random.poisson(np.random.normal(fga_per_game_est_mean, fga_per_game_est_std))
+            fga_i = np.random.poisson(np.random.normal(fga_per_game_est_mean * fga_adjustment_for_def, fga_per_game_est_std))
 
             if fga_i == 0:
                 fg3m_s.append(0)
@@ -152,7 +157,7 @@ class ThreesModel:
 
             #apply weighting to each shot based off cluster
             weighted_fg_percent = np.dot(
-                fg_percent_by_cluster.values * def_adjustment, model.predict_proba(sampled_shot_locs).T
+                fg_percent_by_cluster.values * def_fg_adjustment, model.predict_proba(sampled_shot_locs).T
             )
 
             fgm_i = np.vectorize(np.random.binomial)(1, weighted_fg_percent)
