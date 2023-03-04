@@ -1,4 +1,4 @@
-# NBA / Python betting challenge
+# NBA Sports Betting Models
 This is the source code for an NBA player prop model. Regular updates on my twitter account <a target="_blank" href="https://www.twitter.com/bendominguez011">@bendominguez011</a>
 
 A writeup for the reasoning behind each of these models will be located here (eventually).
