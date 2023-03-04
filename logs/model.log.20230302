@@ -1,0 +1,26 @@
+[INFO](2023-03-02 15:48:56,731): __init__:27 - Loading odds data...
+[ERROR](2023-03-02 15:49:22,131): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-02 15:49:23,147): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-02 15:49:53,371): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-02 15:49:54,391): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-02 15:50:16,305): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-02 15:50:17,317): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-02 15:50:36,093): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-02 15:50:37,118): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-02 15:51:18,571): __init__:115 - Error getting player team id for OG Anunoby Jr.: player_id must be a string
+[ERROR](2023-03-02 15:51:19,583): __init__:115 - Error getting player team id for OG Anunoby Jr.: player_id must be a string
+[ERROR](2023-03-02 15:51:39,086): __init__:115 - Error getting player team id for P.J Tucker: player_id must be a string
+[ERROR](2023-03-02 15:51:40,095): __init__:115 - Error getting player team id for P.J Tucker: player_id must be a string
+[ERROR](2023-03-02 15:52:13,680): __init__:115 - Error getting player team id for PJ Tucker: player_id must be a string
+[ERROR](2023-03-02 15:52:14,717): __init__:115 - Error getting player team id for PJ Tucker: player_id must be a string
+[ERROR](2023-03-02 15:52:18,387): __init__:115 - Error getting player team id for De’Anthony Melton: player_id must be a string
+[ERROR](2023-03-02 15:52:19,402): __init__:115 - Error getting player team id for De’Anthony Melton: player_id must be a string
+[INFO](2023-03-02 15:57:10,383): __init__:38 - Preparing export folders...
+[INFO](2023-03-02 15:57:10,384): __init__:45 - Saving odds data to export folders...
+[ERROR](2023-03-02 16:01:26,424): threes:50 - Error getting player data for De’Anthony Melton. Could not find player in NBA API.
+[ERROR](2023-03-02 17:03:30,863): threes:50 - Error getting player data for OG Anunoby. Could not find player in NBA API.
+[ERROR](2023-03-02 17:03:30,873): threes:50 - Error getting player data for OG Anunoby Jr.. Could not find player in NBA API.
+[ERROR](2023-03-02 17:03:30,878): threes:50 - Error getting player data for P.J Tucker. Could not find player in NBA API.
+[ERROR](2023-03-02 17:03:42,203): __init__:87 - Error simulating P.J. Tucker against DAL: operands could not be broadcast together with shapes (2,) (3,) 
+[ERROR](2023-03-02 17:03:42,233): threes:50 - Error getting player data for PJ Tucker. Could not find player in NBA API.
+[ERROR](2023-03-02 17:05:25,682): threes:57 - Not enough samples (25) to run model for Russell Westbrook. Skipping.

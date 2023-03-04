@@ -1,0 +1,94 @@
+[INFO](2023-03-03 16:01:32,388): __init__:27 - Loading odds data...
+[ERROR](2023-03-03 16:06:08,046): __init__:115 - Error getting player team id for Grant Jerami: player_id must be a string
+[ERROR](2023-03-03 16:06:09,058): __init__:115 - Error getting player team id for Grant Jerami: player_id must be a string
+[ERROR](2023-03-03 16:06:12,327): __init__:115 - Error getting player team id for Murray Dejounte: player_id must be a string
+[ERROR](2023-03-03 16:06:13,333): __init__:115 - Error getting player team id for Murray Dejounte: player_id must be a string
+[ERROR](2023-03-03 16:06:37,106): __init__:115 - Error getting player team id for Trendon Watford (Por): player_id must be a string
+[ERROR](2023-03-03 16:06:38,111): __init__:115 - Error getting player team id for Trendon Watford (Por): player_id must be a string
+[ERROR](2023-03-03 16:07:06,756): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 16:07:07,766): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 16:07:50,325): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 16:07:51,331): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 16:08:03,597): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 16:08:04,602): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 16:08:23,708): __init__:115 - Error getting player team id for Cam Johnson: player_id must be a string
+[ERROR](2023-03-03 16:08:24,720): __init__:115 - Error getting player team id for Cam Johnson: player_id must be a string
+[ERROR](2023-03-03 16:08:45,953): __init__:115 - Error getting player team id for Alfred Joel Horford Reynoso: player_id must be a string
+[ERROR](2023-03-03 16:08:46,962): __init__:115 - Error getting player team id for Alfred Joel Horford Reynoso: player_id must be a string
+[ERROR](2023-03-03 16:08:50,179): __init__:115 - Error getting player team id for Dorian Finney Smith: player_id must be a string
+[ERROR](2023-03-03 16:08:51,180): __init__:115 - Error getting player team id for Dorian Finney Smith: player_id must be a string
+[ERROR](2023-03-03 16:09:21,484): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 16:09:22,492): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 16:12:06,483): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-03-03 16:12:07,484): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-03-03 16:16:26,091): __init__:115 - Error getting player team id for K. Caldwell-Pope: player_id must be a string
+[ERROR](2023-03-03 16:16:27,103): __init__:115 - Error getting player team id for K. Caldwell-Pope: player_id must be a string
+[ERROR](2023-03-03 16:19:53,901): __init__:115 - Error getting player team id for Anthony Davis Jr.: player_id must be a string
+[ERROR](2023-03-03 16:19:54,902): __init__:115 - Error getting player team id for Anthony Davis Jr.: player_id must be a string
+[ERROR](2023-03-03 16:20:36,832): __init__:115 - Error getting player team id for Mike Conley Jr.: player_id must be a string
+[ERROR](2023-03-03 16:20:37,832): __init__:115 - Error getting player team id for Mike Conley Jr.: player_id must be a string
+[ERROR](2023-03-03 16:21:31,002): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-03 16:21:32,019): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-03 16:21:38,257): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-03 16:21:39,259): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[INFO](2023-03-03 16:58:50,409): __init__:27 - Loading odds data...
+[ERROR](2023-03-03 17:03:26,968): __init__:115 - Error getting player team id for Grant Jerami: player_id must be a string
+[ERROR](2023-03-03 17:03:27,980): __init__:115 - Error getting player team id for Grant Jerami: player_id must be a string
+[ERROR](2023-03-03 17:03:31,191): __init__:115 - Error getting player team id for Murray Dejounte: player_id must be a string
+[ERROR](2023-03-03 17:03:32,203): __init__:115 - Error getting player team id for Murray Dejounte: player_id must be a string
+[ERROR](2023-03-03 17:03:55,528): __init__:115 - Error getting player team id for Trendon Watford (Por): player_id must be a string
+[ERROR](2023-03-03 17:03:56,542): __init__:115 - Error getting player team id for Trendon Watford (Por): player_id must be a string
+[ERROR](2023-03-03 17:04:25,184): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 17:04:26,191): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 17:05:07,854): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 17:05:08,862): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 17:05:21,007): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 17:05:22,017): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 17:05:41,139): __init__:115 - Error getting player team id for Cam Johnson: player_id must be a string
+[ERROR](2023-03-03 17:05:42,149): __init__:115 - Error getting player team id for Cam Johnson: player_id must be a string
+[ERROR](2023-03-03 17:06:03,349): __init__:115 - Error getting player team id for Alfred Joel Horford Reynoso: player_id must be a string
+[ERROR](2023-03-03 17:06:04,360): __init__:115 - Error getting player team id for Alfred Joel Horford Reynoso: player_id must be a string
+[ERROR](2023-03-03 17:06:07,597): __init__:115 - Error getting player team id for Dorian Finney Smith: player_id must be a string
+[ERROR](2023-03-03 17:06:08,608): __init__:115 - Error getting player team id for Dorian Finney Smith: player_id must be a string
+[ERROR](2023-03-03 17:06:38,625): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 17:06:39,640): __init__:115 - Error getting player team id for Cameron Thomas: player_id must be a string
+[ERROR](2023-03-03 17:09:22,726): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-03-03 17:09:23,744): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-03-03 17:13:42,565): __init__:115 - Error getting player team id for K. Caldwell-Pope: player_id must be a string
+[ERROR](2023-03-03 17:13:43,574): __init__:115 - Error getting player team id for K. Caldwell-Pope: player_id must be a string
+[ERROR](2023-03-03 17:17:43,317): __init__:115 - Error getting player team id for Anthony Davis Jr.: player_id must be a string
+[ERROR](2023-03-03 17:17:44,335): __init__:115 - Error getting player team id for Anthony Davis Jr.: player_id must be a string
+[ERROR](2023-03-03 17:18:26,471): __init__:115 - Error getting player team id for Mike Conley Jr.: player_id must be a string
+[ERROR](2023-03-03 17:18:27,478): __init__:115 - Error getting player team id for Mike Conley Jr.: player_id must be a string
+[ERROR](2023-03-03 17:19:19,429): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-03 17:19:20,448): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-03 17:19:26,202): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-03 17:19:27,215): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[INFO](2023-03-03 17:20:38,091): __init__:38 - Preparing export folders...
+[INFO](2023-03-03 17:20:38,092): __init__:45 - Saving odds data to export folders...
+[ERROR](2023-03-03 17:21:20,966): threes:50 - Error getting player data for Alfred Joel Horford Reynoso. Could not find player in NBA API.
+[ERROR](2023-03-03 17:21:33,248): threes:50 - Error getting player data for Anthony Davis Jr.. Could not find player in NBA API.
+[ERROR](2023-03-03 17:23:16,742): threes:50 - Error getting player data for Cam Johnson. Could not find player in NBA API.
+[ERROR](2023-03-03 17:24:03,716): threes:50 - Error getting player data for Cameron Thomas. Could not find player in NBA API.
+[ERROR](2023-03-03 17:27:11,745): threes:57 - Not enough samples (25) to run model for Deandre Ayton. Skipping.
+[ERROR](2023-03-03 17:30:42,827): threes:50 - Error getting player data for Dorian Finney Smith. Could not find player in NBA API.
+[ERROR](2023-03-03 17:31:10,833): threes:57 - Not enough samples (25) to run model for Drew Eubanks. Skipping.
+[ERROR](2023-03-03 17:33:04,702): threes:50 - Error getting player data for Grant Jerami. Could not find player in NBA API.
+[ERROR](2023-03-03 17:36:40,220): __init__:87 - Error simulating Jamal Murray against MEM: operands could not be broadcast together with shapes (4,) (5,) 
+[ERROR](2023-03-03 17:37:00,620): threes:57 - Not enough samples (25) to run model for James Wiseman. Skipping.
+[ERROR](2023-03-03 17:37:16,993): threes:57 - Not enough samples (25) to run model for Jarred Vanderbilt. Skipping.
+[ERROR](2023-03-03 17:39:30,754): threes:57 - Not enough samples (25) to run model for Josh Hart. Skipping.
+[ERROR](2023-03-03 17:40:09,618): threes:50 - Error getting player data for K. Caldwell-Pope. Could not find player in NBA API.
+[ERROR](2023-03-03 17:41:58,079): threes:57 - Not enough samples (25) to run model for Kevin Durant. Skipping.
+[ERROR](2023-03-03 17:43:37,968): __init__:87 - Error simulating Kyle Kuzma against TOR: p < 0, p > 1 or p is NaN
+[ERROR](2023-03-03 17:44:15,866): threes:57 - Not enough samples (25) to run model for Luke Kennard. Skipping.
+[ERROR](2023-03-03 17:45:43,311): __init__:87 - Error simulating Michael Porter against MEM: shapes (4,) and (5,4) not aligned: 4 (dim 0) != 5 (dim 0)
+[ERROR](2023-03-03 17:45:53,041): __init__:87 - Error simulating Michael Porter Jr. against MEM: shapes (4,) and (5,7) not aligned: 4 (dim 0) != 5 (dim 0)
+[ERROR](2023-03-03 17:46:23,508): threes:50 - Error getting player data for Mike Conley Jr.. Could not find player in NBA API.
+[ERROR](2023-03-03 17:46:37,898): threes:50 - Error getting player data for Murray Dejounte. Could not find player in NBA API.
+[ERROR](2023-03-03 17:47:36,478): threes:50 - Error getting player data for OG Anunoby. Could not find player in NBA API.
+[ERROR](2023-03-03 17:47:46,546): __init__:87 - Error simulating P.J. Tucker against MIL: operands could not be broadcast together with shapes (2,) (3,) 
+[ERROR](2023-03-03 17:48:18,780): threes:57 - Not enough samples (25) to run model for Patrick Beverley. Skipping.
+[ERROR](2023-03-03 17:49:28,824): threes:50 - Error getting player data for RJ Barrett Jr.. Could not find player in NBA API.
+[ERROR](2023-03-03 17:50:04,479): threes:57 - Not enough samples (25) to run model for Russell Westbrook. Skipping.
+[ERROR](2023-03-03 17:53:04,763): threes:50 - Error getting player data for Trendon Watford (Por). Could not find player in NBA API.
