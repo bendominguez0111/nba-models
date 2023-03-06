@@ -1,0 +1,30 @@
+[INFO](2023-03-04 10:06:18,666): __init__:27 - Loading odds data...
+[ERROR](2023-03-04 10:06:31,912): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:06:32,915): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:06:38,883): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:06:39,896): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:07:07,834): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:07:08,851): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:07:20,978): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:07:21,985): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:07:45,365): __init__:115 - Error getting player team id for Og Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:07:46,372): __init__:115 - Error getting player team id for Og Anunoby: player_id must be a string
+[ERROR](2023-03-04 10:09:42,002): __init__:115 - Error getting player team id for KJ Martin: player_id must be a string
+[ERROR](2023-03-04 10:09:43,011): __init__:115 - Error getting player team id for KJ Martin: player_id must be a string
+[ERROR](2023-03-04 10:09:59,851): __init__:115 - Error getting player team id for KJ Martin: player_id must be a string
+[ERROR](2023-03-04 10:10:00,876): __init__:115 - Error getting player team id for KJ Martin: player_id must be a string
+[ERROR](2023-03-04 10:11:21,269): __init__:115 - Error getting player team id for PJ Tucker: player_id must be a string
+[ERROR](2023-03-04 10:11:22,287): __init__:115 - Error getting player team id for PJ Tucker: player_id must be a string
+[ERROR](2023-03-04 10:11:32,459): __init__:115 - Error getting player team id for G. Antetokounmpo: player_id must be a string
+[ERROR](2023-03-04 10:11:33,464): __init__:115 - Error getting player team id for G. Antetokounmpo: player_id must be a string
+[INFO](2023-03-04 10:12:12,349): __init__:38 - Preparing export folders...
+[INFO](2023-03-04 10:12:12,349): __init__:45 - Saving odds data to export folders...
+[ERROR](2023-03-04 10:14:42,673): threes:50 - Error getting player data for G. Antetokounmpo. Could not find player in NBA API.
+[ERROR](2023-03-04 10:15:27,385): threes:57 - Not enough samples (25) to run model for Jabari Smith. Skipping.
+[ERROR](2023-03-04 10:17:01,550): threes:57 - Not enough samples (25) to run model for James Wiseman. Skipping.
+[ERROR](2023-03-04 10:17:12,184): __init__:87 - Error simulating Jeremy Sochan against HOU: operands could not be broadcast together with shapes (2,) (3,) 
+[ERROR](2023-03-04 10:17:48,642): threes:50 - Error getting player data for KJ Martin. Could not find player in NBA API.
+[ERROR](2023-03-04 10:19:13,181): threes:50 - Error getting player data for OG Anunoby. Could not find player in NBA API.
+[ERROR](2023-03-04 10:19:13,190): threes:50 - Error getting player data for Og Anunoby. Could not find player in NBA API.
+[ERROR](2023-03-04 10:19:23,156): __init__:87 - Error simulating P.J. Tucker against MIL: operands could not be broadcast together with shapes (2,) (3,) 
+[ERROR](2023-03-04 10:19:23,169): threes:50 - Error getting player data for PJ Tucker. Could not find player in NBA API.

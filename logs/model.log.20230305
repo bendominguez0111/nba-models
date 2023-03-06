@@ -1,0 +1,22 @@
+[INFO](2023-03-05 09:50:43,535): __init__:27 - Loading odds data...
+[ERROR](2023-03-05 09:53:04,932): __init__:115 - Error getting player team id for Anthony Davis Jr.: player_id must be a string
+[ERROR](2023-03-05 09:53:05,938): __init__:115 - Error getting player team id for Anthony Davis Jr.: player_id must be a string
+[ERROR](2023-03-05 09:54:53,684): __init__:115 - Error getting player team id for Cam Johnson: player_id must be a string
+[ERROR](2023-03-05 09:54:54,706): __init__:115 - Error getting player team id for Cam Johnson: player_id must be a string
+[ERROR](2023-03-05 09:57:14,644): __init__:115 - Error getting player team id for S. Gilgeous-Alexander: player_id must be a string
+[ERROR](2023-03-05 09:57:15,650): __init__:115 - Error getting player team id for S. Gilgeous-Alexander: player_id must be a string
+[ERROR](2023-03-05 09:58:11,560): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[ERROR](2023-03-05 09:58:12,571): __init__:115 - Error getting player team id for RJ Barrett Jr.: player_id must be a string
+[INFO](2023-03-05 10:00:05,852): __init__:38 - Preparing export folders...
+[INFO](2023-03-05 10:00:05,852): __init__:45 - Saving odds data to export folders...
+[ERROR](2023-03-05 10:01:28,824): threes:50 - Error getting player data for Anthony Davis Jr.. Could not find player in NBA API.
+[ERROR](2023-03-05 10:01:28,839): threes:50 - Error getting player data for Cam Johnson. Could not find player in NBA API.
+[ERROR](2023-03-05 10:08:55,928): threes:57 - Not enough samples (25) to run model for Drew Eubanks. Skipping.
+[ERROR](2023-03-05 10:13:34,817): __init__:87 - Error simulating Jordan Clarkson against OKC: operands could not be broadcast together with shapes (4,) (5,) 
+[ERROR](2023-03-05 10:18:56,914): threes:57 - Not enough samples (25) to run model for Kevin Durant. Skipping.
+[ERROR](2023-03-05 10:21:47,023): __init__:87 - Error simulating Luka Doncic against PHX: operands could not be broadcast together with shapes (4,) (5,) 
+[ERROR](2023-03-05 10:26:24,543): threes:57 - Not enough samples (25) to run model for Patrick Beverley. Skipping.
+[ERROR](2023-03-05 10:26:47,776): __init__:87 - Error simulating Paul George against MEM: operands could not be broadcast together with shapes (5,) (6,) 
+[ERROR](2023-03-05 10:28:11,508): threes:50 - Error getting player data for RJ Barrett Jr.. Could not find player in NBA API.
+[ERROR](2023-03-05 10:29:37,040): threes:57 - Not enough samples (25) to run model for Russell Westbrook. Skipping.
+[ERROR](2023-03-05 10:29:37,057): threes:50 - Error getting player data for S. Gilgeous-Alexander. Could not find player in NBA API.
