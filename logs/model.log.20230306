@@ -1,0 +1,19 @@
+[INFO](2023-03-06 08:41:03,982): __init__:27 - Loading odds data...
+[ERROR](2023-03-06 08:41:41,614): __init__:115 - Error getting player team id for Jimmy Butler III: player_id must be a string
+[ERROR](2023-03-06 08:41:42,622): __init__:115 - Error getting player team id for Jimmy Butler III: player_id must be a string
+[ERROR](2023-03-06 08:42:43,961): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:42:44,971): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:43:11,605): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:43:12,619): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:43:32,213): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:43:33,223): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:43:50,881): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:43:51,892): __init__:115 - Error getting player team id for OG Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:44:05,862): __init__:115 - Error getting player team id for Og Anunoby: player_id must be a string
+[ERROR](2023-03-06 08:44:06,870): __init__:115 - Error getting player team id for Og Anunoby: player_id must be a string
+[INFO](2023-03-06 08:44:43,494): __init__:38 - Preparing export folders...
+[INFO](2023-03-06 08:44:43,494): __init__:45 - Saving odds data to export folders...
+[ERROR](2023-03-06 08:48:23,763): threes:50 - Error getting player data for Jimmy Butler III. Could not find player in NBA API.
+[ERROR](2023-03-06 08:49:03,662): __init__:87 - Error simulating Michael Porter against TOR: shapes (4,) and (5,7) not aligned: 4 (dim 0) != 5 (dim 0)
+[ERROR](2023-03-06 08:49:34,512): threes:50 - Error getting player data for OG Anunoby. Could not find player in NBA API.
+[ERROR](2023-03-06 08:49:34,516): threes:50 - Error getting player data for Og Anunoby. Could not find player in NBA API.
